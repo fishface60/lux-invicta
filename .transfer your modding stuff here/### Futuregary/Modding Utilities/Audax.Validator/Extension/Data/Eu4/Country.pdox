@@ -27,7 +27,7 @@
 		
 		Supply = {
 			(DataSource Chained) = {
-				(FileGroup "gfx\flags" "*.tga")
+				(FileGroup "gfx/flags" "*.tga")
 				(StringOp ToUpper)
 				(StringOp Replace "\\" "\")
 				(StringOp Replace ".TGA" "")

@@ -49,25 +49,25 @@ color = {
 	}
 	
 	emblem = {
-		file = "gfx\\coats_of_arms\\emblem.tga"
+		file = "gfx/coats_of_arms/emblem.tga"
 		noOfFrames = 25
 	}
 	emblem = {
-		file = "gfx\\coats_of_arms\\emblems_solo_5.tga"
+		file = "gfx/coats_of_arms/emblems_solo_5.tga"
 		noOfFrames = 40
 	}
 
 	# WHEN ADDING NEW, ALWAYS ADD AT THE END !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!11111
 	textures = {
 		texture = {
-			file = "gfx\\coats_of_arms\\pattern.tga"
+			file = "gfx/coats_of_arms/pattern.tga"
 			size = { x = 10 y = 24 }
 			noOfFrames = 240
 			emblem = no
 			color = 2
 		}
 		texture = {
-			file = "gfx\\coats_of_arms\\pattern2.tga"
+			file = "gfx/coats_of_arms/pattern2.tga"
 			size = { x = 10 y = 24 }
 			noOfFrames = 80
 			emblem = no
@@ -75,7 +75,7 @@ color = {
 			color = 2 
 		}
 		texture = {
-			file = "gfx\\coats_of_arms\\pattern3.tga"
+			file = "gfx/coats_of_arms/pattern3.tga"
 			size = { x = 10 y = 2 }
 			noOfFrames = 19
 			color = 3
@@ -84,7 +84,7 @@ color = {
 		}
 		
 		texture = {
-			file = "gfx\\coats_of_arms\\dynasties.tga"
+			file = "gfx/coats_of_arms/dynasties.tga"
 			size = { x = 51 y = 1 }
 			noOfFrames = 51
 			color = 0
@@ -98,7 +98,7 @@ color = {
 			random = no # Do not use for random CoAs
 		}
 		texture = {
-			file = "gfx\\coats_of_arms\\pattern4.tga"
+			file = "gfx/coats_of_arms/pattern4.tga"
 			size = { x = 10 y = 2 }
 			noOfFrames = 11
 			color = 2
@@ -106,14 +106,14 @@ color = {
 			emblem = no
 		}
 		texture = {
-			file = "gfx\\coats_of_arms\\salian.tga"
+			file = "gfx/coats_of_arms/salian.tga"
 			size = { x = 1 y = 1 }
 			noOfFrames = 1
 			color = 0
 			random = no # Do not use for random CoAs
 		}
 		texture = {
-			file = "gfx\\coats_of_arms\\rody6.tga"
+			file = "gfx/coats_of_arms/rody6.tga"
 			size = { x = 4 y = 2 }
 			noOfFrames = 8
 			color = 0
@@ -121,90 +121,90 @@ color = {
 		}
 		
 		texture = {
-			file = "gfx\\coats_of_arms\\rody7.tga"
+			file = "gfx/coats_of_arms/rody7.tga"
 			size = { x = 8 y = 4 }
 			noOfFrames = 32
 			color = 0
 			random = no # Do not use for random CoAs
 		}
 		texture = {
-			file = "gfx\\coats_of_arms\\rody8.tga"
+			file = "gfx/coats_of_arms/rody8.tga"
 			size = { x = 8 y = 4 }
 			noOfFrames = 32
 			color = 0
 			random = no # Do not use for random CoAs
 		}
 		texture = {
-			file = "gfx\\coats_of_arms\\rody9.tga"
+			file = "gfx/coats_of_arms/rody9.tga"
 			size = { x = 8 y = 4 }
 			noOfFrames = 32
 			color = 0
 			random = no # Do not use for random CoAs
 		}
 		texture = {
-			file = "gfx\\coats_of_arms\\rody10.tga"
+			file = "gfx/coats_of_arms/rody10.tga"
 			size = { x = 8 y = 4 }
 			noOfFrames = 32
 			color = 0
 			random = no # Do not use for random CoAs
 		}
 		texture = {
-			file = "gfx\\coats_of_arms\\rody11.tga"
+			file = "gfx/coats_of_arms/rody11.tga"
 			size = { x = 8 y = 4 }
 			noOfFrames = 32
 			color = 0
 			random = no # Do not use for random CoAs
 		}
 		texture = {
-			file = "gfx\\coats_of_arms\\rody12.tga"
+			file = "gfx/coats_of_arms/rody12.tga"
 			size = { x = 8 y = 4 }
 			noOfFrames = 32
 			color = 0
 			random = no # Do not use for random CoAs
 		}
 		texture = {
-			file = "gfx\\coats_of_arms\\rody13.tga"
+			file = "gfx/coats_of_arms/rody13.tga"
 			size = { x = 8 y = 4 }
 			noOfFrames = 32
 			color = 0
 			random = no # Do not use for random CoAs
 		}
 		texture = {
-			file = "gfx\\coats_of_arms\\rody14.tga"
+			file = "gfx/coats_of_arms/rody14.tga"
 			size = { x = 8 y = 4 }
 			noOfFrames = 32
 			color = 0
 			random = no # Do not use for random CoAs
 		}
 		texture = {
-			file = "gfx\\coats_of_arms\\rody15.tga"
+			file = "gfx/coats_of_arms/rody15.tga"
 			size = { x = 8 y = 4 }
 			noOfFrames = 32
 			color = 0
 			random = no # Do not use for random CoAs
 		}
 #		texture = {
-#			file = "gfx\\coats_of_arms\\rody16.tga"
+#			file = "gfx/coats_of_arms/rody16.tga"
 #			size = { x = 8 y = 4 }
 #			noOfFrames = 32
 #			color = 0
 #		}
 #		texture = {
-#			file = "gfx\\coats_of_arms\\personal.tga"
+#			file = "gfx/coats_of_arms/personal.tga"
 #			size = { x = 1 y = 1 }
 #			noOfFrames = 1
 #			color = 0
 #			random = no # Do not use for random CoAs
 #		}
 #		texture = {
-#			file = "gfx\\coats_of_arms\\rody18.tga"
+#			file = "gfx/coats_of_arms/rody18.tga"
 #			size = { x = 8 y = 4 }
 #			noOfFrames = 32
 #			color = 0
 #			random = no # Do not use for random CoAs
 #		}
 #		texture = {
-#			file = "gfx\\coats_of_arms\\rody19.tga"
+#			file = "gfx/coats_of_arms/rody19.tga"
 #			size = { x = 8 y = 4 }
 #			noOfFrames = 32
 #			color = 0
@@ -212,14 +212,14 @@ color = {
 #		}
 		# WHEN ADDING NEW, ALWAYS ADD AT THE END !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!11111
 		texture = {
-			file = "gfx\\coats_of_arms\\patricians.tga"
+			file = "gfx/coats_of_arms/patricians.tga"
 			size = { x = 16 y = 2 }
 			noOfFrames = 25
 			color = 0
 			random = no # Do not use for random CoAs
 		}
 				texture = { #texture = 10 # Coa for Scandinavian vanilla families by Aasmul
-			file = "gfx\\coats_of_arms\\SQUIRRELpack_northern_dynasties_vanillla.tga"
+			file = "gfx/coats_of_arms/SQUIRRELpack_northern_dynasties_vanillla.tga"
 			size = { x = 5 y = 28 }
 			noOfFrames = 140
 			color = 0
@@ -227,7 +227,7 @@ color = {
 			random = no # Do not use for random CoAs
 		}
                 texture = { #texture = 11 # Coa for Lithuanian families(both vanilla and swmh) by Galvakojis
-			file = "gfx\\coats_of_arms\\Lithuania_coa_by_galvakojis.tga"
+			file = "gfx/coats_of_arms/Lithuania_coa_by_galvakojis.tga"
 			size = { x = 10 y = 10 }
 			noOfFrames = 100
 			color = 0
@@ -235,7 +235,7 @@ color = {
 			random = no # Do not use for random CoAs
 		}
             texture = { #texture = 12 # Coa for Scandinavian swmh families by Aasmul
-			file = "gfx\\coats_of_arms\\SQUIRRELpack_northern_dynasties_swmh.tga"
+			file = "gfx/coats_of_arms/SQUIRRELpack_northern_dynasties_swmh.tga"
 			size = { x = 5 y = 14 }
 			noOfFrames = 110
 			color = 0
@@ -243,21 +243,21 @@ color = {
 			random = no # Do not use for random CoAs
 		}
 		texture = { #texture = 0
-			file = "gfx\\coats_of_arms\\Arko_Pattern_3C.tga"
+			file = "gfx/coats_of_arms/Arko_Pattern_3C.tga"
 			size = { x = 10 y = 4 }
 			noOfFrames = 33
 			emblem = no
 			color = 3 
 		}
 		texture = { #texture = 1
-			file = "gfx\\coats_of_arms\\Arko_Pattern_2C.tga"
+			file = "gfx/coats_of_arms/Arko_Pattern_2C.tga"
 			size = { x = 10 y = 10 }
 			noOfFrames = 91
 			emblem = no
 			color = 2
 		}
 		texture = { #texture = 2 avec charge.
-			file = "gfx\\coats_of_arms\\Arko_Pattern_2C_light.tga"
+			file = "gfx/coats_of_arms/Arko_Pattern_2C_light.tga"
 			size = { x = 7 y = 2 }
 			noOfFrames = 14
 			#emblem = yes
@@ -312,14 +312,14 @@ culture = {
 	}
 
 	emblem = {
-		file = "gfx\\coats_of_arms\\emblem_muslim.dds"
+		file = "gfx/coats_of_arms/emblem_muslim.dds"
 		noOfFrames = 1
 	}
 
 	# WHEN ADDING NEW, ALWAYS ADD AT THE END
 	textures = {
 		texture = {
-			file = "gfx\\coats_of_arms\\islamic_part1.tga"
+			file = "gfx/coats_of_arms/islamic_part1.tga"
 			size = { x = 10 y = 15 }
 			noOfFrames = 120
 			color = 2
@@ -373,28 +373,28 @@ culture = {
 	}
 
 	emblem = {
-		file = "gfx\\coats_of_arms\\emblem_muslim.dds"
+		file = "gfx/coats_of_arms/emblem_muslim.dds"
 		noOfFrames = 1
 	}
 
 	# WHEN ADDING NEW, ALWAYS ADD AT THE END
 	textures = {
 		texture = {
-			file = "gfx\\coats_of_arms\\pattern_norse.tga"
+			file = "gfx/coats_of_arms/pattern_norse.tga"
 			size = { x = 10 y = 4 }
 			noOfFrames = 32
 			color = 2
 			emblem = no
 		}
 		texture = {
-			file = "gfx\\coats_of_arms\\pattern2_norse.tga"
+			file = "gfx/coats_of_arms/pattern2_norse.tga"
 			size = { x = 10 y = 4 }
 			noOfFrames = 32
 			color = 3
 			emblem = no
 		}
 		texture = {
-			file = "gfx\\coats_of_arms\\ARKOpack_norrois.tga"
+			file = "gfx/coats_of_arms/ARKOpack_norrois.tga"
 			size = { x = 10 y = 6 }
 			noOfFrames = 60
 			emblem = no
@@ -402,7 +402,7 @@ culture = {
 		}
 		texture = {
 		# Jylland, Kiev, Livonia, Meath, Novgorod, Orkney, Ostlandet, Sjaelland, The Isles, Trondelag, Uppland, Vastergotland, York
-			file = "gfx\\coats_of_arms\\pagans.tga"
+			file = "gfx/coats_of_arms/pagans.tga"
 			size = { x = 13 y = 1 }
 			noOfFrames = 13
 			color = 0
@@ -461,21 +461,21 @@ culture = {
 	}
 
 	emblem = {
-		file = "gfx\\coats_of_arms\\emblem_muslim.dds"
+		file = "gfx/coats_of_arms/emblem_muslim.dds"
 		noOfFrames = 1
 	}
 
 	# WHEN ADDING NEW, ALWAYS ADD AT THE END
 	textures = {
 		texture = {
-			file = "gfx\\coats_of_arms\\pattern_westafrican.tga"
+			file = "gfx/coats_of_arms/pattern_westafrican.tga"
 			size = { x = 10 y = 4 }
 			noOfFrames = 40
 			color = 2
 			emblem = no
 		}
 		texture = {
-			file = "gfx\\coats_of_arms\\pattern2_westafrican.tga"
+			file = "gfx/coats_of_arms/pattern2_westafrican.tga"
 			size = { x = 10 y = 4 }
 			noOfFrames = 40
 			color = 3
@@ -483,7 +483,7 @@ culture = {
 		}
 		texture = {
 		# Jylland, Kiev, Livonia, Meath, Novgorod, Orkney, Ostlandet, Sjaelland, The Isles, Trondelag, Uppland, Vastergotland, York
-			file = "gfx\\coats_of_arms\\pagans.tga"
+			file = "gfx/coats_of_arms/pagans.tga"
 			size = { x = 13 y = 1 }
 			noOfFrames = 13
 			color = 0
@@ -535,28 +535,28 @@ culture = {
 	}
 
 	emblem = {
-		file = "gfx\\coats_of_arms\\emblem_muslim.dds"
+		file = "gfx/coats_of_arms/emblem_muslim.dds"
 		noOfFrames = 1
 	}
 
 	# WHEN ADDING NEW, ALWAYS ADD AT THE END
 	textures = {
 		texture = {
-			file = "gfx\\coats_of_arms\\tamgas.tga"
+			file = "gfx/coats_of_arms/tamgas.tga"
 			size = { x = 10 y = 5 }
 			noOfFrames = 48
 			color = 2
 			emblem = no
 		}
 		texture = {
-			file = "gfx\\coats_of_arms\\pattern_mongol.tga"
+			file = "gfx/coats_of_arms/pattern_mongol.tga"
 			size = { x = 10 y = 1 }
 			noOfFrames = 10
 			color = 2
 			emblem = no
 		}
 		texture = {
-			file = "gfx\\coats_of_arms\\pattern2_mongol.tga"
+			file = "gfx/coats_of_arms/pattern2_mongol.tga"
 			size = { x = 10 y = 1 }
 			noOfFrames = 10
 			color = 3
@@ -564,7 +564,7 @@ culture = {
 		}
 		texture = {
 		# Jylland, Kiev, Livonia, Meath, Novgorod, Orkney, Ostlandet, Sjaelland, The Isles, Trondelag, Uppland, Vastergotland, York
-			file = "gfx\\coats_of_arms\\pagans.tga"
+			file = "gfx/coats_of_arms/pagans.tga"
 			size = { x = 13 y = 1 }
 			noOfFrames = 13
 			color = 0
@@ -619,35 +619,35 @@ culture = {
 	}
 
 	emblem = {
-		file = "gfx\\coats_of_arms\\emblem_muslim.dds"
+		file = "gfx/coats_of_arms/emblem_muslim.dds"
 		noOfFrames = 1
 	}
 	
 	# WHEN ADDING NEW, ALWAYS ADD AT THE END
 	textures = {
 		texture = {
-			file = "gfx\\coats_of_arms\\Zoroastrian_2c.tga"
+			file = "gfx/coats_of_arms/Zoroastrian_2c.tga"
 			size = { x = 10 y = 2 }
 			noOfFrames = 17
 			color = 2
 			emblem = no
 		}
 		texture = {
-			file = "gfx\\coats_of_arms\\Zoroastrian_3cDia.tga"
+			file = "gfx/coats_of_arms/Zoroastrian_3cDia.tga"
 			size = { x = 10 y = 2 }
 			noOfFrames = 17
 			color = 3
 			emblem = no
 		}
 		texture = {
-			file = "gfx\\coats_of_arms\\pattern_zoroastrian.tga"
+			file = "gfx/coats_of_arms/pattern_zoroastrian.tga"
 			size = { x = 10 y = 1 }
 			noOfFrames = 10
 			color = 2
 			emblem = no
 		}
 		texture = {
-			file = "gfx\\coats_of_arms\\pattern2_zoroastrian.tga"
+			file = "gfx/coats_of_arms/pattern2_zoroastrian.tga"
 			size = { x = 10 y = 1 }
 			noOfFrames = 10
 			color = 3
@@ -686,14 +686,14 @@ culture = {
 	}
 
 	emblem = {
-		file = "gfx\\coats_of_arms\\glyphs_overlay.tga"
+		file = "gfx/coats_of_arms/glyphs_overlay.tga"
 		noOfFrames = 10
 	}
 
 	# WHEN ADDING NEW, ALWAYS ADD AT THE END
 	textures = {
 		texture = {
-			file = "gfx\\coats_of_arms\\glyphs.tga"
+			file = "gfx/coats_of_arms/glyphs.tga"
 			size = { x = 10 y = 10 }
 			noOfFrames = 21
 			color = 0
@@ -774,21 +774,21 @@ culture = {
 	}
 
 	emblem = {
-		file = "gfx\\coats_of_arms\\emblem_muslim.dds"
+		file = "gfx/coats_of_arms/emblem_muslim.dds"
 		noOfFrames = 1
 	}
 
 	# WHEN ADDING NEW, ALWAYS ADD AT THE END
 	textures = {
 		texture = {
-			file = "gfx\\coats_of_arms\\pattern_indian.tga"
+			file = "gfx/coats_of_arms/pattern_indian.tga"
 			size = { x = 10 y = 4 }
 			noOfFrames = 36
 			color = 2
 			emblem = no
 		}
 		texture = {
-			file = "gfx\\coats_of_arms\\pattern2_indian.tga"
+			file = "gfx/coats_of_arms/pattern2_indian.tga"
 			size = { x = 10 y = 4 }
 			noOfFrames = 36
 			color = 3

@@ -49,7 +49,7 @@
 		
 		Supply = {
 			(DataSource Chained) = {
-				(FileGroup "gfx\interface\ideas_EU4" "*.dds")
+				(FileGroup "gfx/interface/ideas_EU4" "*.dds")
 				(StringOp ToUpper)
 				(StringOp Replace "\\" "\")
 				(StringOp Replace ".DDS" "")

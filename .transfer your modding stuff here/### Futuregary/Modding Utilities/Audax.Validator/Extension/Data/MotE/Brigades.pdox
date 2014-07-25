@@ -23,7 +23,7 @@
 		#UniqueId = Right
 		FileExists = {
 			Target = "[R]"
-			Path = "gfx\brigade\*.tga"
+			Path = "gfx/brigade/*.tga"
 		}
 	}
 

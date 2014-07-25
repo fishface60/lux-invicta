@@ -1,7 +1,7 @@
 objectTypes = {
 	EMFXActorType = {
 		name = "westerngfx_port"
-		actorfile = "gfx\models\Settlements\Western\Western_Port.xac"
+		actorfile = "gfx/models/Settlements/Western/Western_Port.xac"
 		scale = 0.7f
 		use_animation = no
 		cull_distance = 300.0f
@@ -9,7 +9,7 @@ objectTypes = {
 
 	EMFXActorType = {
 		name = "easterngfx_port"
-		actorfile = "gfx\models\Settlements\Western\Western_Port.xac"
+		actorfile = "gfx/models/Settlements/Western/Western_Port.xac"
 		scale = 0.7f
 		use_animation = no
 		cull_distance = 300.0f
@@ -17,7 +17,7 @@ objectTypes = {
 
 	EMFXActorType = {
 		name = "muslimgfx_port"
-		actorfile = "gfx\models\Settlements\Muslim\Muslim_port.xac"
+		actorfile = "gfx/models/Settlements/Muslim/Muslim_port.xac"
 		scale = 0.7f
 		use_animation = no
 		cull_distance = 300.0f
@@ -25,7 +25,7 @@ objectTypes = {
 	
 	EMFXActorType = {
 		name = "levantinegfx_port"
-		actorfile = "gfx\models\Settlements\Muslim\Muslim_port.xac"
+		actorfile = "gfx/models/Settlements/Muslim/Muslim_port.xac"
 		scale = 0.7f
 		use_animation = no
 		cull_distance = 300.0f
@@ -33,7 +33,7 @@ objectTypes = {
 	
 	EMFXActorType = {
 		name = "turkishgfx_port"
-		actorfile = "gfx\models\Settlements\Muslim\Muslim_port.xac"
+		actorfile = "gfx/models/Settlements/Muslim/Muslim_port.xac"
 		scale = 0.7f
 		use_animation = no
 		cull_distance = 300.0f
@@ -41,14 +41,14 @@ objectTypes = {
 	
 	EMFXActorType = {
 		name = "mediterraneangfx_port"
-		actorfile = "gfx\models\Settlements\Western\Western_Port.xac"
+		actorfile = "gfx/models/Settlements/Western/Western_Port.xac"
 		scale = 0.7f
 		use_animation = no
 		cull_distance = 300.0f
 	}
 	EMFXActorType = {
 		name = "catalangfx_port"
-		actorfile = "gfx\models\Settlements\Western\Western_Port.xac"
+		actorfile = "gfx/models/Settlements/Western/Western_Port.xac"
 		scale = 0.7f
 		use_animation = no
 		cull_distance = 300.0f
@@ -56,7 +56,7 @@ objectTypes = {
 	
 	EMFXActorType = {
 		name = "byzantinegfx_port"
-		actorfile = "gfx\models\Settlements\Western\Western_Port.xac"
+		actorfile = "gfx/models/Settlements/Western/Western_Port.xac"
 		scale = 0.7f
 		use_animation = no
 		cull_distance = 300.0f
@@ -64,7 +64,7 @@ objectTypes = {
 	
 	EMFXActorType = {
 		name = "italiangfx_port"
-		actorfile = "gfx\models\Settlements\Western\Western_Port.xac"
+		actorfile = "gfx/models/Settlements/Western/Western_Port.xac"
 		scale = 0.7f
 		use_animation = no
 		cull_distance = 300.0f
@@ -72,7 +72,7 @@ objectTypes = {
 	
 	EMFXActorType = {
 		name = "iberiangfx_port"
-		actorfile = "gfx\models\Settlements\Western\Western_Port.xac"
+		actorfile = "gfx/models/Settlements/Western/Western_Port.xac"
 		scale = 0.7f
 		use_animation = no
 		cull_distance = 300.0f
@@ -80,7 +80,7 @@ objectTypes = {
 	
 	EMFXActorType = {
 		name = "croatiangfx_port"
-		actorfile = "gfx\models\Settlements\Western\Western_Port.xac"
+		actorfile = "gfx/models/Settlements/Western/Western_Port.xac"
 		scale = 0.7f
 		use_animation = no
 		cull_distance = 300.0f
@@ -88,7 +88,7 @@ objectTypes = {
 	
 	EMFXActorType = {
 		name = "occitangfx_port"
-		actorfile = "gfx\models\Settlements\Western\Western_Port.xac"
+		actorfile = "gfx/models/Settlements/Western/Western_Port.xac"
 		scale = 0.7f
 		use_animation = no
 		cull_distance = 300.0f
@@ -96,14 +96,14 @@ objectTypes = {
 	
 	EMFXActorType = {
 		name = "byzantinegfx_port"
-		actorfile = "gfx\models\Settlements\Western\Western_Port.xac"
+		actorfile = "gfx/models/Settlements/Western/Western_Port.xac"
 		scale = 0.7f
 		use_animation = no
 		cull_distance = 300.0f
 	}
 	EMFXActorType = {
 		name = "andalusiangfx_port"
-		actorfile = "gfx\models\Settlements\Moorish\Mooris_port.xac"
+		actorfile = "gfx/models/Settlements/Moorish/Mooris_port.xac"
 		scale = 0.7f
 		use_animation = no
 		cull_distance = 300.0f
@@ -111,7 +111,7 @@ objectTypes = {
 	
 	EMFXActorType = {
 		name = "berbergfx_port"
-		actorfile = "gfx\models\Settlements\Moorish\Mooris_port.xac"
+		actorfile = "gfx/models/Settlements/Moorish/Mooris_port.xac"
 		scale = 0.7f
 		use_animation = no
 		cull_distance = 300.0f
@@ -119,7 +119,7 @@ objectTypes = {
 	
 	EMFXActorType = {
 		name = "persiangfx_port"
-		actorfile = "gfx\models\Settlements\Muslim\Muslim_port.xac"
+		actorfile = "gfx/models/Settlements/Muslim/Muslim_port.xac"
 		scale = 0.7f
 		use_animation = no
 		cull_distance = 300.0f
@@ -127,7 +127,7 @@ objectTypes = {
 
 	EMFXActorType = {
 		name = "ugricgfx_port"
-		actorfile = "gfx\models\Settlements\Western\Western_Port.xac"
+		actorfile = "gfx/models/Settlements/Western/Western_Port.xac"
 		scale = 0.7f
 		use_animation = no
 		cull_distance = 300.0f
@@ -137,14 +137,14 @@ objectTypes = {
 
 	EMFXActorType = {
 		name = "muslimgfx_house_1_1"
-		actorfile = "gfx\models\Settlements\Muslim\Muslim_house_1_01.xac"
+		actorfile = "gfx/models/Settlements/Muslim/Muslim_house_1_01.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 
 	EMFXActorType = {
 		name = "muslimgfx_house_1_2"
-		actorfile = "gfx\models\Settlements\Muslim\Muslim_house_1_02.xac"
+		actorfile = "gfx/models/Settlements/Muslim/Muslim_house_1_02.xac"
 		scale = 0.8f
 		use_animation = no
 	}
@@ -152,105 +152,105 @@ objectTypes = {
 	
 	EMFXActorType = {
 		name = "muslimgfx_house_1_3"
-		actorfile = "gfx\models\Settlements\Muslim\Muslim_house_1_03.xac"
+		actorfile = "gfx/models/Settlements/Muslim/Muslim_house_1_03.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 
 	EMFXActorType = {
 		name = "muslimgfx_house_1_4"
-		actorfile = "gfx\models\Settlements\Muslim\Muslim_house_1_04.xac"
+		actorfile = "gfx/models/Settlements/Muslim/Muslim_house_1_04.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 
 	EMFXActorType = {
 		name = "muslimgfx_house_2_1"
-		actorfile = "gfx\models\Settlements\Muslim\Muslim_house_2_01.xac"
+		actorfile = "gfx/models/Settlements/Muslim/Muslim_house_2_01.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 
 	EMFXActorType = {
 		name = "muslimgfx_house_2_2"
-		actorfile = "gfx\models\Settlements\Muslim\Muslim_house_2_02.xac"
+		actorfile = "gfx/models/Settlements/Muslim/Muslim_house_2_02.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 	
 	EMFXActorType = {
 		name = "muslimgfx_house_2_3"
-		actorfile = "gfx\models\Settlements\Muslim\Muslim_house_2_03.xac"
+		actorfile = "gfx/models/Settlements/Muslim/Muslim_house_2_03.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 
 	EMFXActorType = {
 		name = "muslimgfx_house_2_4"
-		actorfile = "gfx\models\Settlements\Muslim\Muslim_house_2_04.xac"
+		actorfile = "gfx/models/Settlements/Muslim/Muslim_house_2_04.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 
 	EMFXActorType = {
 		name = "muslimgfx_house_3_1"
-		actorfile = "gfx\models\Settlements\Muslim\Muslim_house_3_01.xac"
+		actorfile = "gfx/models/Settlements/Muslim/Muslim_house_3_01.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 
 	EMFXActorType = {
 		name = "muslimgfx_house_3_2"
-		actorfile = "gfx\models\Settlements\Muslim\Muslim_house_3_02.xac"
+		actorfile = "gfx/models/Settlements/Muslim/Muslim_house_3_02.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 	
 	EMFXActorType = {
 		name = "muslimgfx_house_3_3"
-		actorfile = "gfx\models\Settlements\Muslim\Muslim_house_3_03.xac"
+		actorfile = "gfx/models/Settlements/Muslim/Muslim_house_3_03.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 
 	EMFXActorType = {
 		name = "muslimgfx_house_3_4"
-		actorfile = "gfx\models\Settlements\Muslim\Muslim_house_3_04.xac"
+		actorfile = "gfx/models/Settlements/Muslim/Muslim_house_3_04.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 
 	EMFXActorType = {
 		name = "muslimgfx_house_4_1"
-		actorfile = "gfx\models\Settlements\Muslim\Muslim_house_4_01.xac"
+		actorfile = "gfx/models/Settlements/Muslim/Muslim_house_4_01.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 
 	EMFXActorType = {
 		name = "muslimgfx_house_4_2"
-		actorfile = "gfx\models\Settlements\Muslim\Muslim_house_4_02.xac"
+		actorfile = "gfx/models/Settlements/Muslim/Muslim_house_4_02.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 
 	EMFXActorType = {
 		name = "muslimgfx_house_4_3"
-		actorfile = "gfx\models\Settlements\Muslim\Muslim_house_4_03.xac"
+		actorfile = "gfx/models/Settlements/Muslim/Muslim_house_4_03.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 
 	EMFXActorType = {
 		name = "muslimgfx_house_4_4"
-		actorfile = "gfx\models\Settlements\Muslim\Muslim_house_4_04.xac"
+		actorfile = "gfx/models/Settlements/Muslim/Muslim_house_4_04.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 	
 	EMFXActorType = {
 		name = "muslimgfx_castle_1"
-		actorfile = "gfx\models\Settlements\Muslim\Muslim_Castle_02.xac"
+		actorfile = "gfx/models/Settlements/Muslim/Muslim_Castle_02.xac"
 		scale = 1.3f
 		use_animation = no
 		cull_distance = 550.0f
@@ -258,7 +258,7 @@ objectTypes = {
 		
 	EMFXActorType = {
 		name = "muslimgfx_castle_2"
-		actorfile = "gfx\models\Settlements\Muslim\Muslim_Castle_02.xac"
+		actorfile = "gfx/models/Settlements/Muslim/Muslim_Castle_02.xac"
 		scale = 0.8f
 		use_animation = no
 		cull_distance = 550.0f
@@ -266,7 +266,7 @@ objectTypes = {
 	
 	EMFXActorType = {
 		name = "muslimgfx_castle_3"
-		actorfile = "gfx\models\Settlements\Muslim\Muslim_Castle_03.xac"
+		actorfile = "gfx/models/Settlements/Muslim/Muslim_Castle_03.xac"
 		scale = 0.8f
 		use_animation = no
 		cull_distance = 550.0f
@@ -274,7 +274,7 @@ objectTypes = {
 
 	EMFXActorType = {
 		name = "muslimgfx_temple_1"
-		actorfile = "gfx\models\Settlements\Muslim\Muslim_Church03.xac"
+		actorfile = "gfx/models/Settlements/Muslim/Muslim_Church03.xac"
 		scale = 1.1f
 		use_animation = no
 		cull_distance = 550.0f
@@ -282,7 +282,7 @@ objectTypes = {
 	
 	EMFXActorType = {
 		name = "muslimgfx_temple_2"
-		actorfile = "gfx\models\Settlements\Muslim\Muslim_Church02.xac"
+		actorfile = "gfx/models/Settlements/Muslim/Muslim_Church02.xac"
 		scale = 0.8f
 		use_animation = no
 		cull_distance = 550.0f
@@ -290,7 +290,7 @@ objectTypes = {
 	
 	EMFXActorType = {
 		name = "muslimgfx_temple_3"
-		actorfile = "gfx\models\Settlements\Muslim\Muslim_Church03.xac"
+		actorfile = "gfx/models/Settlements/Muslim/Muslim_Church03.xac"
 		scale = 0.8f
 		use_animation = no
 		cull_distance = 550.0f
@@ -298,7 +298,7 @@ objectTypes = {
 
 	EMFXActorType = {
 		name = "muslimgfx_city_1"
-		actorfile = "gfx\models\Settlements\Muslim\Muslim_City_01.xac"
+		actorfile = "gfx/models/Settlements/Muslim/Muslim_City_01.xac"
 		scale = 1.5f
 		use_animation = no
 		cull_distance = 550.0f
@@ -306,7 +306,7 @@ objectTypes = {
 	
 	EMFXActorType = {
 		name = "muslimgfx_city_2"
-		actorfile = "gfx\models\Settlements\Muslim\Muslim_City_02.xac"
+		actorfile = "gfx/models/Settlements/Muslim/Muslim_City_02.xac"
 		scale = 0.8f
 		use_animation = no
 		cull_distance = 550.0f
@@ -314,7 +314,7 @@ objectTypes = {
 	
 	EMFXActorType = {
 		name = "muslimgfx_city_3"
-		actorfile = "gfx\models\Settlements\Muslim\Muslim_City_01.xac"
+		actorfile = "gfx/models/Settlements/Muslim/Muslim_City_01.xac"
 		scale = 0.8f
 		use_animation = no
 		cull_distance = 550.0f
@@ -324,14 +324,14 @@ objectTypes = {
 
 	EMFXActorType = {
 		name = "levantinegfx_house_1_1"
-		actorfile = "gfx\models\Settlements\Muslim\Muslim_house_1_01.xac"
+		actorfile = "gfx/models/Settlements/Muslim/Muslim_house_1_01.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 
 	EMFXActorType = {
 		name = "levantinegfx_house_1_2"
-		actorfile = "gfx\models\Settlements\Muslim\Muslim_house_1_02.xac"
+		actorfile = "gfx/models/Settlements/Muslim/Muslim_house_1_02.xac"
 		scale = 0.8f
 		use_animation = no
 	}
@@ -339,105 +339,105 @@ objectTypes = {
 	
 	EMFXActorType = {
 		name = "levantinegfx_house_1_3"
-		actorfile = "gfx\models\Settlements\Muslim\Muslim_house_1_03.xac"
+		actorfile = "gfx/models/Settlements/Muslim/Muslim_house_1_03.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 
 	EMFXActorType = {
 		name = "levantinegfx_house_1_4"
-		actorfile = "gfx\models\Settlements\Muslim\Muslim_house_1_04.xac"
+		actorfile = "gfx/models/Settlements/Muslim/Muslim_house_1_04.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 
 	EMFXActorType = {
 		name = "levantinegfx_house_2_1"
-		actorfile = "gfx\models\Settlements\Muslim\Muslim_house_2_01.xac"
+		actorfile = "gfx/models/Settlements/Muslim/Muslim_house_2_01.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 
 	EMFXActorType = {
 		name = "levantinegfx_house_2_2"
-		actorfile = "gfx\models\Settlements\Muslim\Muslim_house_2_02.xac"
+		actorfile = "gfx/models/Settlements/Muslim/Muslim_house_2_02.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 	
 	EMFXActorType = {
 		name = "levantinegfx_house_2_3"
-		actorfile = "gfx\models\Settlements\Muslim\Muslim_house_2_03.xac"
+		actorfile = "gfx/models/Settlements/Muslim/Muslim_house_2_03.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 
 	EMFXActorType = {
 		name = "levantinegfx_house_2_4"
-		actorfile = "gfx\models\Settlements\Muslim\Muslim_house_2_04.xac"
+		actorfile = "gfx/models/Settlements/Muslim/Muslim_house_2_04.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 
 	EMFXActorType = {
 		name = "levantinegfx_house_3_1"
-		actorfile = "gfx\models\Settlements\Muslim\Muslim_house_3_01.xac"
+		actorfile = "gfx/models/Settlements/Muslim/Muslim_house_3_01.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 
 	EMFXActorType = {
 		name = "levantinegfx_house_3_2"
-		actorfile = "gfx\models\Settlements\Muslim\Muslim_house_3_02.xac"
+		actorfile = "gfx/models/Settlements/Muslim/Muslim_house_3_02.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 	
 	EMFXActorType = {
 		name = "levantinegfx_house_3_3"
-		actorfile = "gfx\models\Settlements\Muslim\Muslim_house_3_03.xac"
+		actorfile = "gfx/models/Settlements/Muslim/Muslim_house_3_03.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 
 	EMFXActorType = {
 		name = "levantinegfx_house_3_4"
-		actorfile = "gfx\models\Settlements\Muslim\Muslim_house_3_04.xac"
+		actorfile = "gfx/models/Settlements/Muslim/Muslim_house_3_04.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 
 	EMFXActorType = {
 		name = "levantinegfx_house_4_1"
-		actorfile = "gfx\models\Settlements\Muslim\Muslim_house_4_01.xac"
+		actorfile = "gfx/models/Settlements/Muslim/Muslim_house_4_01.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 
 	EMFXActorType = {
 		name = "levantinegfx_house_4_2"
-		actorfile = "gfx\models\Settlements\Muslim\Muslim_house_4_02.xac"
+		actorfile = "gfx/models/Settlements/Muslim/Muslim_house_4_02.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 
 	EMFXActorType = {
 		name = "levantinegfx_house_4_3"
-		actorfile = "gfx\models\Settlements\Muslim\Muslim_house_4_03.xac"
+		actorfile = "gfx/models/Settlements/Muslim/Muslim_house_4_03.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 
 	EMFXActorType = {
 		name = "levantinegfx_house_4_4"
-		actorfile = "gfx\models\Settlements\Muslim\Muslim_house_4_04.xac"
+		actorfile = "gfx/models/Settlements/Muslim/Muslim_house_4_04.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 	
 	EMFXActorType = {
 		name = "levantinegfx_castle_1"
-		actorfile = "gfx\models\Settlements\Muslim\Muslim_Castle_02.xac"
+		actorfile = "gfx/models/Settlements/Muslim/Muslim_Castle_02.xac"
 		scale = 1.3f
 		use_animation = no
 		cull_distance = 550.0f
@@ -445,7 +445,7 @@ objectTypes = {
 		
 	EMFXActorType = {
 		name = "levantinegfx_castle_2"
-		actorfile = "gfx\models\Settlements\Muslim\Muslim_Castle_02.xac"
+		actorfile = "gfx/models/Settlements/Muslim/Muslim_Castle_02.xac"
 		scale = 0.8f
 		use_animation = no
 		cull_distance = 550.0f
@@ -453,7 +453,7 @@ objectTypes = {
 	
 	EMFXActorType = {
 		name = "levantinegfx_castle_3"
-		actorfile = "gfx\models\Settlements\Muslim\Muslim_Castle_03.xac"
+		actorfile = "gfx/models/Settlements/Muslim/Muslim_Castle_03.xac"
 		scale = 0.8f
 		use_animation = no
 		cull_distance = 550.0f
@@ -461,7 +461,7 @@ objectTypes = {
 
 	EMFXActorType = {
 		name = "levantinegfx_temple_1"
-		actorfile = "gfx\models\Settlements\Muslim\Muslim_Church03.xac"
+		actorfile = "gfx/models/Settlements/Muslim/Muslim_Church03.xac"
 		scale = 1.1f
 		use_animation = no
 		cull_distance = 550.0f
@@ -469,7 +469,7 @@ objectTypes = {
 	
 	EMFXActorType = {
 		name = "levantinegfx_temple_2"
-		actorfile = "gfx\models\Settlements\Muslim\Muslim_Church02.xac"
+		actorfile = "gfx/models/Settlements/Muslim/Muslim_Church02.xac"
 		scale = 0.8f
 		use_animation = no
 		cull_distance = 550.0f
@@ -477,7 +477,7 @@ objectTypes = {
 	
 	EMFXActorType = {
 		name = "levantinegfx_temple_3"
-		actorfile = "gfx\models\Settlements\Muslim\Muslim_Church03.xac"
+		actorfile = "gfx/models/Settlements/Muslim/Muslim_Church03.xac"
 		scale = 0.8f
 		use_animation = no
 		cull_distance = 550.0f
@@ -485,7 +485,7 @@ objectTypes = {
 
 	EMFXActorType = {
 		name = "levantinegfx_city_1"
-		actorfile = "gfx\models\Settlements\Muslim\Muslim_City_01.xac"
+		actorfile = "gfx/models/Settlements/Muslim/Muslim_City_01.xac"
 		scale = 1.5f
 		use_animation = no
 		cull_distance = 550.0f
@@ -493,7 +493,7 @@ objectTypes = {
 	
 	EMFXActorType = {
 		name = "levantinegfx_city_2"
-		actorfile = "gfx\models\Settlements\Muslim\Muslim_City_02.xac"
+		actorfile = "gfx/models/Settlements/Muslim/Muslim_City_02.xac"
 		scale = 0.8f
 		use_animation = no
 		cull_distance = 550.0f
@@ -501,7 +501,7 @@ objectTypes = {
 	
 	EMFXActorType = {
 		name = "levantinegfx_city_3"
-		actorfile = "gfx\models\Settlements\Muslim\Muslim_City_01.xac"
+		actorfile = "gfx/models/Settlements/Muslim/Muslim_City_01.xac"
 		scale = 0.8f
 		use_animation = no
 		cull_distance = 550.0f
@@ -511,14 +511,14 @@ objectTypes = {
 
 	EMFXActorType = {
 		name = "turkishgfx_house_1_1"
-		actorfile = "gfx\models\Settlements\Turk\Turkish_house_1_01.xac"
+		actorfile = "gfx/models/Settlements/Turk/Turkish_house_1_01.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 
 	EMFXActorType = {
 		name = "turkishgfx_house_1_2"
-		actorfile = "gfx\models\Settlements\Turk\Turkish_house_1_02.xac"
+		actorfile = "gfx/models/Settlements/Turk/Turkish_house_1_02.xac"
 		scale = 0.8f
 		use_animation = no
 	}
@@ -526,105 +526,105 @@ objectTypes = {
 	
 	EMFXActorType = {
 		name = "turkishgfx_house_1_3"
-		actorfile = "gfx\models\Settlements\Turk\Turkish_house_1_03.xac"
+		actorfile = "gfx/models/Settlements/Turk/Turkish_house_1_03.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 
 	EMFXActorType = {
 		name = "turkishgfx_house_1_4"
-		actorfile = "gfx\models\Settlements\Turk\Turkish_house_1_04.xac"
+		actorfile = "gfx/models/Settlements/Turk/Turkish_house_1_04.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 
 	EMFXActorType = {
 		name = "turkishgfx_house_2_1"
-		actorfile = "gfx\models\Settlements\Turk\Turkish_house_2_01.xac"
+		actorfile = "gfx/models/Settlements/Turk/Turkish_house_2_01.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 
 	EMFXActorType = {
 		name = "turkishgfx_house_2_2"
-		actorfile = "gfx\models\Settlements\Turk\Turkish_house_2_02.xac"
+		actorfile = "gfx/models/Settlements/Turk/Turkish_house_2_02.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 	
 	EMFXActorType = {
 		name = "turkishgfx_house_2_3"
-		actorfile = "gfx\models\Settlements\Turk\Turkish_house_2_03.xac"
+		actorfile = "gfx/models/Settlements/Turk/Turkish_house_2_03.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 
 	EMFXActorType = {
 		name = "turkishgfx_house_2_4"
-		actorfile = "gfx\models\Settlements\Turk\Turkish_house_2_04.xac"
+		actorfile = "gfx/models/Settlements/Turk/Turkish_house_2_04.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 
 	EMFXActorType = {
 		name = "turkishgfx_house_3_1"
-		actorfile = "gfx\models\Settlements\Turk\Turkish_house_3_01.xac"
+		actorfile = "gfx/models/Settlements/Turk/Turkish_house_3_01.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 
 	EMFXActorType = {
 		name = "turkishgfx_house_3_2"
-		actorfile = "gfx\models\Settlements\Turk\Turkish_house_3_02.xac"
+		actorfile = "gfx/models/Settlements/Turk/Turkish_house_3_02.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 	
 	EMFXActorType = {
 		name = "turkishgfx_house_3_3"
-		actorfile = "gfx\models\Settlements\Turk\Turkish_house_3_03.xac"
+		actorfile = "gfx/models/Settlements/Turk/Turkish_house_3_03.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 
 	EMFXActorType = {
 		name = "turkishgfx_house_3_4"
-		actorfile = "gfx\models\Settlements\Turk\Turkish_house_3_04.xac"
+		actorfile = "gfx/models/Settlements/Turk/Turkish_house_3_04.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 
 	EMFXActorType = {
 		name = "turkishgfx_house_4_1"
-		actorfile = "gfx\models\Settlements\Turk\Turkish_house_4_01.xac"
+		actorfile = "gfx/models/Settlements/Turk/Turkish_house_4_01.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 
 	EMFXActorType = {
 		name = "turkishgfx_house_4_2"
-		actorfile = "gfx\models\Settlements\Turk\Turkish_house_4_02.xac"
+		actorfile = "gfx/models/Settlements/Turk/Turkish_house_4_02.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 
 	EMFXActorType = {
 		name = "turkishgfx_house_4_3"
-		actorfile = "gfx\models\Settlements\Turk\Turkish_house_4_03.xac"
+		actorfile = "gfx/models/Settlements/Turk/Turkish_house_4_03.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 
 	EMFXActorType = {
 		name = "turkishgfx_house_4_4"
-		actorfile = "gfx\models\Settlements\Turk\Turkish_house_4_04.xac"
+		actorfile = "gfx/models/Settlements/Turk/Turkish_house_4_04.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 	
 	EMFXActorType = {
 		name = "turkishgfx_castle_1"
-		actorfile = "gfx\models\Settlements\Turk\Turkye_Church03.xac"
+		actorfile = "gfx/models/Settlements/Turk/Turkye_Church03.xac"
 		scale = 1.3f
 		use_animation = no
 		cull_distance = 550.0f
@@ -632,7 +632,7 @@ objectTypes = {
 		
 	EMFXActorType = {
 		name = "turkishgfx_temple_1"
-		actorfile = "gfx\models\Settlements\Turk\Turkye_Church03.xac"
+		actorfile = "gfx/models/Settlements/Turk/Turkye_Church03.xac"
 		scale = 1.1f
 		use_animation = no
 		cull_distance = 550.0f
@@ -640,7 +640,7 @@ objectTypes = {
 	
 	EMFXActorType = {
 		name = "turkishgfx_city_1"
-		actorfile = "gfx\models\Settlements\Turk\Turkye_City_01.xac"
+		actorfile = "gfx/models/Settlements/Turk/Turkye_City_01.xac"
 		scale = 1.5f
 		use_animation = no
 		cull_distance = 550.0f
@@ -651,119 +651,119 @@ objectTypes = {
 
 	EMFXActorType = {
 		name = "westerngfx_house_1_1"
-		actorfile = "gfx\models\Settlements\Western\Western_house_1_01.xac"
+		actorfile = "gfx/models/Settlements/Western/Western_house_1_01.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 
 	EMFXActorType = {
 		name = "westerngfx_house_1_2"
-		actorfile = "gfx\models\Settlements\Western\Western_house_1_02.xac"
+		actorfile = "gfx/models/Settlements/Western/Western_house_1_02.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 	
 	EMFXActorType = {
 		name = "westerngfx_house_1_3"
-		actorfile = "gfx\models\Settlements\Western\Western_house_1_03.xac"
+		actorfile = "gfx/models/Settlements/Western/Western_house_1_03.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 
 	EMFXActorType = {
 		name = "westerngfx_house_1_4"
-		actorfile = "gfx\models\Settlements\Western\Western_house_1_04.xac"
+		actorfile = "gfx/models/Settlements/Western/Western_house_1_04.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 
 	EMFXActorType = {
 		name = "westerngfx_house_2_1"
-		actorfile = "gfx\models\Settlements\Western\Western_house_2_01.xac"
+		actorfile = "gfx/models/Settlements/Western/Western_house_2_01.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 
 	EMFXActorType = {
 		name = "westerngfx_house_2_2"
-		actorfile = "gfx\models\Settlements\Western\Western_house_2_02.xac"
+		actorfile = "gfx/models/Settlements/Western/Western_house_2_02.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 	
 	EMFXActorType = {
 		name = "westerngfx_house_2_3"
-		actorfile = "gfx\models\Settlements\Western\Western_house_2_03.xac"
+		actorfile = "gfx/models/Settlements/Western/Western_house_2_03.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 	
 	EMFXActorType = {
 		name = "westerngfx_house_2_4"
-		actorfile = "gfx\models\Settlements\Western\Western_house_2_04.xac"
+		actorfile = "gfx/models/Settlements/Western/Western_house_2_04.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 
 	EMFXActorType = {
 		name = "westerngfx_house_3_1"
-		actorfile = "gfx\models\Settlements\Western\Western_house_3_01.xac"
+		actorfile = "gfx/models/Settlements/Western/Western_house_3_01.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 
 	EMFXActorType = {
 		name = "westerngfx_house_3_2"
-		actorfile = "gfx\models\Settlements\Western\Western_house_3_02.xac"
+		actorfile = "gfx/models/Settlements/Western/Western_house_3_02.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 	
 	EMFXActorType = {
 		name = "westerngfx_house_3_3"
-		actorfile = "gfx\models\Settlements\Western\Western_house_3_03.xac"
+		actorfile = "gfx/models/Settlements/Western/Western_house_3_03.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 	
 	EMFXActorType = {
 		name = "westerngfx_house_3_4"
-		actorfile = "gfx\models\Settlements\Western\Western_house_3_04.xac"
+		actorfile = "gfx/models/Settlements/Western/Western_house_3_04.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 
 	EMFXActorType = {
 		name = "westerngfx_house_4_1"
-		actorfile = "gfx\models\Settlements\Western\Western_house_4_01.xac"
+		actorfile = "gfx/models/Settlements/Western/Western_house_4_01.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 
 	EMFXActorType = {
 		name = "westerngfx_house_4_2"
-		actorfile = "gfx\models\Settlements\Western\Western_house_4_02.xac"
+		actorfile = "gfx/models/Settlements/Western/Western_house_4_02.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 
 	EMFXActorType = {
 		name = "westerngfx_house_4_3"
-		actorfile = "gfx\models\Settlements\Western\Western_house_4_03.xac"
+		actorfile = "gfx/models/Settlements/Western/Western_house_4_03.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 	
 	EMFXActorType = {
 		name = "westerngfx_house_4_4"
-		actorfile = "gfx\models\Settlements\Western\Western_house_4_04.xac"
+		actorfile = "gfx/models/Settlements/Western/Western_house_4_04.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 	
 	EMFXActorType = {
 		name = "westerngfx_castle_1"
-		actorfile = "gfx\models\Settlements\Western\Western_Castle_02.xac"
+		actorfile = "gfx/models/Settlements/Western/Western_Castle_02.xac"
 		scale = 1.3f
 		use_animation = no
 		cull_distance = 550.0f
@@ -771,7 +771,7 @@ objectTypes = {
 	
 	EMFXActorType = {
 		name = "westerngfx_temple_1"
-		actorfile = "gfx\models\Settlements\Western\Western_Church_03.xac"
+		actorfile = "gfx/models/Settlements/Western/Western_Church_03.xac"
 		scale = 1.3f
 		use_animation = no
 		cull_distance = 550.0f
@@ -779,7 +779,7 @@ objectTypes = {
 	
 	EMFXActorType = {
 		name = "westerngfx_city_1"
-		actorfile = "gfx\models\Settlements\Western\Western_City02.xac"
+		actorfile = "gfx/models/Settlements/Western/Western_City02.xac"
 		scale = 1.3f
 		use_animation = no
 		cull_distance = 550.0f
@@ -789,119 +789,119 @@ objectTypes = {
 
 	EMFXActorType = {
 		name = "easterngfx_house_1_1"
-		actorfile = "gfx\models\Settlements\Eastern\Eastern_house_1_01.xac"
+		actorfile = "gfx/models/Settlements/Eastern/Eastern_house_1_01.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 
 	EMFXActorType = {
 		name = "easterngfx_house_1_2"
-		actorfile = "gfx\models\Settlements\Eastern\Eastern_house_1_02.xac"
+		actorfile = "gfx/models/Settlements/Eastern/Eastern_house_1_02.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 	
 	EMFXActorType = {
 		name = "easterngfx_house_1_3"
-		actorfile = "gfx\models\Settlements\Eastern\Eastern_house_1_03.xac"
+		actorfile = "gfx/models/Settlements/Eastern/Eastern_house_1_03.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 
 	EMFXActorType = {
 		name = "easterngfx_house_1_4"
-		actorfile = "gfx\models\Settlements\Eastern\Eastern_house_1_04.xac"
+		actorfile = "gfx/models/Settlements/Eastern/Eastern_house_1_04.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 
 	EMFXActorType = {
 		name = "easterngfx_house_2_1"
-		actorfile = "gfx\models\Settlements\Eastern\Eastern_house_2_01.xac"
+		actorfile = "gfx/models/Settlements/Eastern/Eastern_house_2_01.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 
 	EMFXActorType = {
 		name = "easterngfx_house_2_2"
-		actorfile = "gfx\models\Settlements\Eastern\Eastern_house_2_02.xac"
+		actorfile = "gfx/models/Settlements/Eastern/Eastern_house_2_02.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 	
 	EMFXActorType = {
 		name = "easterngfx_house_2_3"
-		actorfile = "gfx\models\Settlements\Eastern\Eastern_house_2_03.xac"
+		actorfile = "gfx/models/Settlements/Eastern/Eastern_house_2_03.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 	
 	EMFXActorType = {
 		name = "easterngfx_house_2_4"
-		actorfile = "gfx\models\Settlements\Eastern\Eastern_house_2_04.xac"
+		actorfile = "gfx/models/Settlements/Eastern/Eastern_house_2_04.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 
 	EMFXActorType = {
 		name = "easterngfx_house_3_1"
-		actorfile = "gfx\models\Settlements\Eastern\Eastern_house_3_01.xac"
+		actorfile = "gfx/models/Settlements/Eastern/Eastern_house_3_01.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 
 	EMFXActorType = {
 		name = "easterngfx_house_3_2"
-		actorfile = "gfx\models\Settlements\Eastern\Eastern_house_3_02.xac"
+		actorfile = "gfx/models/Settlements/Eastern/Eastern_house_3_02.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 	
 	EMFXActorType = {
 		name = "easterngfx_house_3_3"
-		actorfile = "gfx\models\Settlements\Eastern\Eastern_house_3_03.xac"
+		actorfile = "gfx/models/Settlements/Eastern/Eastern_house_3_03.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 	
 	EMFXActorType = {
 		name = "easterngfx_house_3_4"
-		actorfile = "gfx\models\Settlements\Eastern\Eastern_house_3_04.xac"
+		actorfile = "gfx/models/Settlements/Eastern/Eastern_house_3_04.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 
 	EMFXActorType = {
 		name = "easterngfx_house_4_1"
-		actorfile = "gfx\models\Settlements\Eastern\Eastern_house_4_01.xac"
+		actorfile = "gfx/models/Settlements/Eastern/Eastern_house_4_01.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 
 	EMFXActorType = {
 		name = "easterngfx_house_4_2"
-		actorfile = "gfx\models\Settlements\Eastern\Eastern_house_4_02.xac"
+		actorfile = "gfx/models/Settlements/Eastern/Eastern_house_4_02.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 
 	EMFXActorType = {
 		name = "easterngfx_house_4_3"
-		actorfile = "gfx\models\Settlements\Eastern\Eastern_house_4_03.xac"
+		actorfile = "gfx/models/Settlements/Eastern/Eastern_house_4_03.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 	
 	EMFXActorType = {
 		name = "easterngfx_house_4_4"
-		actorfile = "gfx\models\Settlements\Eastern\Eastern_house_4_04.xac"
+		actorfile = "gfx/models/Settlements/Eastern/Eastern_house_4_04.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 	
 	EMFXActorType = {
 		name = "easterngfx_castle_1"
-		actorfile = "gfx\models\Settlements\Eastern\Eastern_Castle_03.xac"
+		actorfile = "gfx/models/Settlements/Eastern/Eastern_Castle_03.xac"
 		scale = 1.3f
 		use_animation = no
 		cull_distance = 550.0f
@@ -909,7 +909,7 @@ objectTypes = {
 
 	EMFXActorType = {
 		name = "easterngfx_temple_1"
-		actorfile = "gfx\models\Settlements\Eastern\Eastern_Church_01.xac"
+		actorfile = "gfx/models/Settlements/Eastern/Eastern_Church_01.xac"
 		scale = 1.3f
 		use_animation = no
 		cull_distance = 550.0f
@@ -917,7 +917,7 @@ objectTypes = {
 
 	EMFXActorType = {
 		name = "easterngfx_city_1"
-		actorfile = "gfx\models\Settlements\Eastern\Eastern_City03.xac"
+		actorfile = "gfx/models/Settlements/Eastern/Eastern_City03.xac"
 		scale = 1.3f
 		use_animation = no
 		cull_distance = 550.0f
@@ -927,119 +927,119 @@ objectTypes = {
 
 	EMFXActorType = {
 		name = "catalangfx_house_1_1"
-		actorfile = "gfx\models\Settlements\Mediterranean\Mediterranean_house_1_01.xac"
+		actorfile = "gfx/models/Settlements/Mediterranean/Mediterranean_house_1_01.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 
 	EMFXActorType = {
 		name = "catalangfx_house_1_2"
-		actorfile = "gfx\models\Settlements\Mediterranean\Mediterranean_house_1_02.xac"
+		actorfile = "gfx/models/Settlements/Mediterranean/Mediterranean_house_1_02.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 	
 	EMFXActorType = {
 		name = "catalangfx_house_1_3"
-		actorfile = "gfx\models\Settlements\Mediterranean\Mediterranean_house_1_03.xac"
+		actorfile = "gfx/models/Settlements/Mediterranean/Mediterranean_house_1_03.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 
 	EMFXActorType = {
 		name = "catalangfx_house_1_4"
-		actorfile = "gfx\models\Settlements\Mediterranean\Mediterranean_house_1_04.xac"
+		actorfile = "gfx/models/Settlements/Mediterranean/Mediterranean_house_1_04.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 
 	EMFXActorType = {
 		name = "catalangfx_house_2_1"
-		actorfile = "gfx\models\Settlements\Mediterranean\Mediterranean_house_2_01.xac"
+		actorfile = "gfx/models/Settlements/Mediterranean/Mediterranean_house_2_01.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 
 	EMFXActorType = {
 		name = "catalangfx_house_2_2"
-		actorfile = "gfx\models\Settlements\Mediterranean\Mediterranean_house_2_02.xac"
+		actorfile = "gfx/models/Settlements/Mediterranean/Mediterranean_house_2_02.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 	
 	EMFXActorType = {
 		name = "catalangfx_house_2_3"
-		actorfile = "gfx\models\Settlements\Mediterranean\Mediterranean_house_2_03.xac"
+		actorfile = "gfx/models/Settlements/Mediterranean/Mediterranean_house_2_03.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 	
 	EMFXActorType = {
 		name = "catalangfx_house_2_4"
-		actorfile = "gfx\models\Settlements\Mediterranean\Mediterranean_house_2_04.xac"
+		actorfile = "gfx/models/Settlements/Mediterranean/Mediterranean_house_2_04.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 
 	EMFXActorType = {
 		name = "catalangfx_house_3_1"
-		actorfile = "gfx\models\Settlements\Mediterranean\Mediterranean_house_3_01.xac"
+		actorfile = "gfx/models/Settlements/Mediterranean/Mediterranean_house_3_01.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 
 	EMFXActorType = {
 		name = "catalangfx_house_3_2"
-		actorfile = "gfx\models\Settlements\Mediterranean\Mediterranean_house_3_02.xac"
+		actorfile = "gfx/models/Settlements/Mediterranean/Mediterranean_house_3_02.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 	
 	EMFXActorType = {
 		name = "catalangfx_house_3_3"
-		actorfile = "gfx\models\Settlements\Mediterranean\Mediterranean_house_3_03.xac"
+		actorfile = "gfx/models/Settlements/Mediterranean/Mediterranean_house_3_03.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 	
 	EMFXActorType = {
 		name = "catalangfx_house_3_4"
-		actorfile = "gfx\models\Settlements\Mediterranean\Mediterranean_house_3_04.xac"
+		actorfile = "gfx/models/Settlements/Mediterranean/Mediterranean_house_3_04.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 
 	EMFXActorType = {
 		name = "catalangfx_house_4_1"
-		actorfile = "gfx\models\Settlements\Mediterranean\Mediterranean_house_4_01.xac"
+		actorfile = "gfx/models/Settlements/Mediterranean/Mediterranean_house_4_01.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 
 	EMFXActorType = {
 		name = "catalangfx_house_4_2"
-		actorfile = "gfx\models\Settlements\Mediterranean\Mediterranean_house_4_02.xac"
+		actorfile = "gfx/models/Settlements/Mediterranean/Mediterranean_house_4_02.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 
 	EMFXActorType = {
 		name = "catalangfx_house_4_3"
-		actorfile = "gfx\models\Settlements\Mediterranean\Mediterranean_house_4_03.xac"
+		actorfile = "gfx/models/Settlements/Mediterranean/Mediterranean_house_4_03.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 	
 	EMFXActorType = {
 		name = "catalangfx_house_4_4"
-		actorfile = "gfx\models\Settlements\Mediterranean\Mediterranean_house_4_04.xac"
+		actorfile = "gfx/models/Settlements/Mediterranean/Mediterranean_house_4_04.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 	
 	EMFXActorType = {
 		name = "catalangfx_castle_1"
-		actorfile = "gfx\models\Settlements\Mediterranean\Mediterranean_Castle_01.xac"
+		actorfile = "gfx/models/Settlements/Mediterranean/Mediterranean_Castle_01.xac"
 		scale = 1.3f
 		use_animation = no
 		cull_distance = 550.0f
@@ -1047,7 +1047,7 @@ objectTypes = {
 	
 	EMFXActorType = {
 		name = "catalangfx_temple_1"
-		actorfile = "gfx\models\Settlements\Mediterranean\Mediterranean_Church_02.xac"
+		actorfile = "gfx/models/Settlements/Mediterranean/Mediterranean_Church_02.xac"
 		scale = 1.3f
 		use_animation = no
 		cull_distance = 550.0f
@@ -1055,7 +1055,7 @@ objectTypes = {
 	
 	EMFXActorType = {
 		name = "catalangfx_city_1"
-		actorfile = "gfx\models\Settlements\Mediterranean\Mediterranean_City01.xac"
+		actorfile = "gfx/models/Settlements/Mediterranean/Mediterranean_City01.xac"
 		scale = 1.3f
 		use_animation = no
 		cull_distance = 550.0f
@@ -1065,119 +1065,119 @@ objectTypes = {
 
 	EMFXActorType = {
 		name = "byzantinegfx_house_1_1"
-		actorfile = "gfx\models\Settlements\Mediterranean\Mediterranean_house_1_01.xac"
+		actorfile = "gfx/models/Settlements/Mediterranean/Mediterranean_house_1_01.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 
 	EMFXActorType = {
 		name = "byzantinegfx_house_1_2"
-		actorfile = "gfx\models\Settlements\Mediterranean\Mediterranean_house_1_02.xac"
+		actorfile = "gfx/models/Settlements/Mediterranean/Mediterranean_house_1_02.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 	
 	EMFXActorType = {
 		name = "byzantinegfx_house_1_3"
-		actorfile = "gfx\models\Settlements\Mediterranean\Mediterranean_house_1_03.xac"
+		actorfile = "gfx/models/Settlements/Mediterranean/Mediterranean_house_1_03.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 
 	EMFXActorType = {
 		name = "byzantinegfx_house_1_4"
-		actorfile = "gfx\models\Settlements\Mediterranean\Mediterranean_house_1_04.xac"
+		actorfile = "gfx/models/Settlements/Mediterranean/Mediterranean_house_1_04.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 
 	EMFXActorType = {
 		name = "byzantinegfx_house_2_1"
-		actorfile = "gfx\models\Settlements\Mediterranean\Mediterranean_house_2_01.xac"
+		actorfile = "gfx/models/Settlements/Mediterranean/Mediterranean_house_2_01.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 
 	EMFXActorType = {
 		name = "byzantinegfx_house_2_2"
-		actorfile = "gfx\models\Settlements\Mediterranean\Mediterranean_house_2_02.xac"
+		actorfile = "gfx/models/Settlements/Mediterranean/Mediterranean_house_2_02.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 	
 	EMFXActorType = {
 		name = "byzantinegfx_house_2_3"
-		actorfile = "gfx\models\Settlements\Mediterranean\Mediterranean_house_2_03.xac"
+		actorfile = "gfx/models/Settlements/Mediterranean/Mediterranean_house_2_03.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 	
 	EMFXActorType = {
 		name = "byzantinegfx_house_2_4"
-		actorfile = "gfx\models\Settlements\Mediterranean\Mediterranean_house_2_04.xac"
+		actorfile = "gfx/models/Settlements/Mediterranean/Mediterranean_house_2_04.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 
 	EMFXActorType = {
 		name = "byzantinegfx_house_3_1"
-		actorfile = "gfx\models\Settlements\Mediterranean\Mediterranean_house_3_01.xac"
+		actorfile = "gfx/models/Settlements/Mediterranean/Mediterranean_house_3_01.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 
 	EMFXActorType = {
 		name = "byzantinegfx_house_3_2"
-		actorfile = "gfx\models\Settlements\Mediterranean\Mediterranean_house_3_02.xac"
+		actorfile = "gfx/models/Settlements/Mediterranean/Mediterranean_house_3_02.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 	
 	EMFXActorType = {
 		name = "byzantinegfx_house_3_3"
-		actorfile = "gfx\models\Settlements\Mediterranean\Mediterranean_house_3_03.xac"
+		actorfile = "gfx/models/Settlements/Mediterranean/Mediterranean_house_3_03.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 	
 	EMFXActorType = {
 		name = "byzantinegfx_house_3_4"
-		actorfile = "gfx\models\Settlements\Mediterranean\Mediterranean_house_3_04.xac"
+		actorfile = "gfx/models/Settlements/Mediterranean/Mediterranean_house_3_04.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 
 	EMFXActorType = {
 		name = "byzantinegfx_house_4_1"
-		actorfile = "gfx\models\Settlements\Mediterranean\Mediterranean_house_4_01.xac"
+		actorfile = "gfx/models/Settlements/Mediterranean/Mediterranean_house_4_01.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 
 	EMFXActorType = {
 		name = "byzantinegfx_house_4_2"
-		actorfile = "gfx\models\Settlements\Mediterranean\Mediterranean_house_4_02.xac"
+		actorfile = "gfx/models/Settlements/Mediterranean/Mediterranean_house_4_02.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 
 	EMFXActorType = {
 		name = "byzantinegfx_house_4_3"
-		actorfile = "gfx\models\Settlements\Mediterranean\Mediterranean_house_4_03.xac"
+		actorfile = "gfx/models/Settlements/Mediterranean/Mediterranean_house_4_03.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 	
 	EMFXActorType = {
 		name = "byzantinegfx_house_4_4"
-		actorfile = "gfx\models\Settlements\Mediterranean\Mediterranean_house_4_04.xac"
+		actorfile = "gfx/models/Settlements/Mediterranean/Mediterranean_house_4_04.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 	
 	EMFXActorType = {
 		name = "byzantinegfx_castle_1"
-		actorfile = "gfx\models\Settlements\Mediterranean\Mediterranean_Castle_01.xac"
+		actorfile = "gfx/models/Settlements/Mediterranean/Mediterranean_Castle_01.xac"
 		scale = 1.3f
 		use_animation = no
 		cull_distance = 550.0f
@@ -1185,7 +1185,7 @@ objectTypes = {
 	
 	EMFXActorType = {
 		name = "byzantinegfx_temple_1"
-		actorfile = "gfx\models\Settlements\Mediterranean\Mediterranean_Church_02.xac"
+		actorfile = "gfx/models/Settlements/Mediterranean/Mediterranean_Church_02.xac"
 		scale = 1.3f
 		use_animation = no
 		cull_distance = 550.0f
@@ -1193,7 +1193,7 @@ objectTypes = {
 	
 	EMFXActorType = {
 		name = "byzantinegfx_city_1"
-		actorfile = "gfx\models\Settlements\Mediterranean\Mediterranean_City01.xac"
+		actorfile = "gfx/models/Settlements/Mediterranean/Mediterranean_City01.xac"
 		scale = 1.3f
 		use_animation = no
 		cull_distance = 550.0f
@@ -1202,119 +1202,119 @@ objectTypes = {
 
 	EMFXActorType = {
 		name = "occitangfx_house_1_1"
-		actorfile = "gfx\models\Settlements\Mediterranean\Mediterranean_house_1_01.xac"
+		actorfile = "gfx/models/Settlements/Mediterranean/Mediterranean_house_1_01.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 
 	EMFXActorType = {
 		name = "occitangfx_house_1_2"
-		actorfile = "gfx\models\Settlements\Mediterranean\Mediterranean_house_1_02.xac"
+		actorfile = "gfx/models/Settlements/Mediterranean/Mediterranean_house_1_02.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 	
 	EMFXActorType = {
 		name = "occitangfx_house_1_3"
-		actorfile = "gfx\models\Settlements\Mediterranean\Mediterranean_house_1_03.xac"
+		actorfile = "gfx/models/Settlements/Mediterranean/Mediterranean_house_1_03.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 
 	EMFXActorType = {
 		name = "occitangfx_house_1_4"
-		actorfile = "gfx\models\Settlements\Mediterranean\Mediterranean_house_1_04.xac"
+		actorfile = "gfx/models/Settlements/Mediterranean/Mediterranean_house_1_04.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 
 	EMFXActorType = {
 		name = "occitangfx_house_2_1"
-		actorfile = "gfx\models\Settlements\Mediterranean\Mediterranean_house_2_01.xac"
+		actorfile = "gfx/models/Settlements/Mediterranean/Mediterranean_house_2_01.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 
 	EMFXActorType = {
 		name = "occitangfx_house_2_2"
-		actorfile = "gfx\models\Settlements\Mediterranean\Mediterranean_house_2_02.xac"
+		actorfile = "gfx/models/Settlements/Mediterranean/Mediterranean_house_2_02.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 	
 	EMFXActorType = {
 		name = "occitangfx_house_2_3"
-		actorfile = "gfx\models\Settlements\Mediterranean\Mediterranean_house_2_03.xac"
+		actorfile = "gfx/models/Settlements/Mediterranean/Mediterranean_house_2_03.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 	
 	EMFXActorType = {
 		name = "occitangfx_house_2_4"
-		actorfile = "gfx\models\Settlements\Mediterranean\Mediterranean_house_2_04.xac"
+		actorfile = "gfx/models/Settlements/Mediterranean/Mediterranean_house_2_04.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 
 	EMFXActorType = {
 		name = "occitangfx_house_3_1"
-		actorfile = "gfx\models\Settlements\Mediterranean\Mediterranean_house_3_01.xac"
+		actorfile = "gfx/models/Settlements/Mediterranean/Mediterranean_house_3_01.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 
 	EMFXActorType = {
 		name = "occitangfx_house_3_2"
-		actorfile = "gfx\models\Settlements\Mediterranean\Mediterranean_house_3_02.xac"
+		actorfile = "gfx/models/Settlements/Mediterranean/Mediterranean_house_3_02.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 	
 	EMFXActorType = {
 		name = "occitangfx_house_3_3"
-		actorfile = "gfx\models\Settlements\Mediterranean\Mediterranean_house_3_03.xac"
+		actorfile = "gfx/models/Settlements/Mediterranean/Mediterranean_house_3_03.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 	
 	EMFXActorType = {
 		name = "occitangfx_house_3_4"
-		actorfile = "gfx\models\Settlements\Mediterranean\Mediterranean_house_3_04.xac"
+		actorfile = "gfx/models/Settlements/Mediterranean/Mediterranean_house_3_04.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 
 	EMFXActorType = {
 		name = "occitangfx_house_4_1"
-		actorfile = "gfx\models\Settlements\Mediterranean\Mediterranean_house_4_01.xac"
+		actorfile = "gfx/models/Settlements/Mediterranean/Mediterranean_house_4_01.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 
 	EMFXActorType = {
 		name = "occitangfx_house_4_2"
-		actorfile = "gfx\models\Settlements\Mediterranean\Mediterranean_house_4_02.xac"
+		actorfile = "gfx/models/Settlements/Mediterranean/Mediterranean_house_4_02.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 
 	EMFXActorType = {
 		name = "occitangfx_house_4_3"
-		actorfile = "gfx\models\Settlements\Mediterranean\Mediterranean_house_4_03.xac"
+		actorfile = "gfx/models/Settlements/Mediterranean/Mediterranean_house_4_03.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 	
 	EMFXActorType = {
 		name = "occitangfx_house_4_4"
-		actorfile = "gfx\models\Settlements\Mediterranean\Mediterranean_house_4_04.xac"
+		actorfile = "gfx/models/Settlements/Mediterranean/Mediterranean_house_4_04.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 	
 	EMFXActorType = {
 		name = "occitangfx_castle_1"
-		actorfile = "gfx\models\Settlements\Mediterranean\Mediterranean_Castle_01.xac"
+		actorfile = "gfx/models/Settlements/Mediterranean/Mediterranean_Castle_01.xac"
 		scale = 1.3f
 		use_animation = no
 		cull_distance = 550.0f
@@ -1322,7 +1322,7 @@ objectTypes = {
 	
 	EMFXActorType = {
 		name = "occitangfx_temple_1"
-		actorfile = "gfx\models\Settlements\Mediterranean\Mediterranean_Church_02.xac"
+		actorfile = "gfx/models/Settlements/Mediterranean/Mediterranean_Church_02.xac"
 		scale = 1.3f
 		use_animation = no
 		cull_distance = 550.0f
@@ -1330,7 +1330,7 @@ objectTypes = {
 	
 	EMFXActorType = {
 		name = "occitangfx_city_1"
-		actorfile = "gfx\models\Settlements\Mediterranean\Mediterranean_City01.xac"
+		actorfile = "gfx/models/Settlements/Mediterranean/Mediterranean_City01.xac"
 		scale = 1.3f
 		use_animation = no
 		cull_distance = 550.0f
@@ -1340,119 +1340,119 @@ objectTypes = {
 
 	EMFXActorType = {
 		name = "ugricgfx_house_1_1"
-		actorfile = "gfx\models\Settlements\Northern\Northern_house_1_01.xac"
+		actorfile = "gfx/models/Settlements/Northern/Northern_house_1_01.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 
 	EMFXActorType = {
 		name = "ugricgfx_house_1_2"
-		actorfile = "gfx\models\Settlements\Northern\Northern_house_1_02.xac"
+		actorfile = "gfx/models/Settlements/Northern/Northern_house_1_02.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 	
 	EMFXActorType = {
 		name = "ugricgfx_house_1_3"
-		actorfile = "gfx\models\Settlements\Northern\Northern_house_1_03.xac"
+		actorfile = "gfx/models/Settlements/Northern/Northern_house_1_03.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 
 	EMFXActorType = {
 		name = "ugricgfx_house_1_4"
-		actorfile = "gfx\models\Settlements\Northern\Northern_house_1_04.xac"
+		actorfile = "gfx/models/Settlements/Northern/Northern_house_1_04.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 
 	EMFXActorType = {
 		name = "ugricgfx_house_2_1"
-		actorfile = "gfx\models\Settlements\Northern\Northern_house_2_01.xac"
+		actorfile = "gfx/models/Settlements/Northern/Northern_house_2_01.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 
 	EMFXActorType = {
 		name = "ugricgfx_house_2_2"
-		actorfile = "gfx\models\Settlements\Northern\Northern_house_2_02.xac"
+		actorfile = "gfx/models/Settlements/Northern/Northern_house_2_02.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 	
 	EMFXActorType = {
 		name = "ugricgfx_house_2_3"
-		actorfile = "gfx\models\Settlements\Northern\Northern_house_2_03.xac"
+		actorfile = "gfx/models/Settlements/Northern/Northern_house_2_03.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 	
 	EMFXActorType = {
 		name = "ugricgfx_house_2_4"
-		actorfile = "gfx\models\Settlements\Northern\Northern_house_2_04.xac"
+		actorfile = "gfx/models/Settlements/Northern/Northern_house_2_04.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 
 	EMFXActorType = {
 		name = "ugricgfx_house_3_1"
-		actorfile = "gfx\models\Settlements\Northern\Northern_house_3_01.xac"
+		actorfile = "gfx/models/Settlements/Northern/Northern_house_3_01.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 
 	EMFXActorType = {
 		name = "ugricgfx_house_3_2"
-		actorfile = "gfx\models\Settlements\Northern\Northern_house_3_02.xac"
+		actorfile = "gfx/models/Settlements/Northern/Northern_house_3_02.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 	
 	EMFXActorType = {
 		name = "ugricgfx_house_3_3"
-		actorfile = "gfx\models\Settlements\Northern\Northern_house_3_03.xac"
+		actorfile = "gfx/models/Settlements/Northern/Northern_house_3_03.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 	
 	EMFXActorType = {
 		name = "ugricgfx_house_3_4"
-		actorfile = "gfx\models\Settlements\Northern\Northern_house_3_04.xac"
+		actorfile = "gfx/models/Settlements/Northern/Northern_house_3_04.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 
 	EMFXActorType = {
 		name = "ugricgfx_house_4_1"
-		actorfile = "gfx\models\Settlements\Northern\Northern_house_4_01.xac"
+		actorfile = "gfx/models/Settlements/Northern/Northern_house_4_01.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 
 	EMFXActorType = {
 		name = "ugricgfx_house_4_2"
-		actorfile = "gfx\models\Settlements\Northern\Northern_house_4_02.xac"
+		actorfile = "gfx/models/Settlements/Northern/Northern_house_4_02.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 
 	EMFXActorType = {
 		name = "ugricgfx_house_4_3"
-		actorfile = "gfx\models\Settlements\Northern\Northern_house_4_03.xac"
+		actorfile = "gfx/models/Settlements/Northern/Northern_house_4_03.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 	
 	EMFXActorType = {
 		name = "ugricgfx_house_4_4"
-		actorfile = "gfx\models\Settlements\Northern\Northern_house_4_04.xac"
+		actorfile = "gfx/models/Settlements/Northern/Northern_house_4_04.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 	
 	EMFXActorType = {
 		name = "ugricgfx_castle_1"
-		actorfile = "gfx\models\Settlements\Northern\Northern_Castle_01.xac"
+		actorfile = "gfx/models/Settlements/Northern/Northern_Castle_01.xac"
 		scale = 1.3f
 		use_animation = no
 		cull_distance = 550.0f
@@ -1460,7 +1460,7 @@ objectTypes = {
 
 	EMFXActorType = {
 		name = "ugricgfx_temple_1"
-		actorfile = "gfx\models\Settlements\Northern\Northern_Church_01.xac"
+		actorfile = "gfx/models/Settlements/Northern/Northern_Church_01.xac"
 		scale = 1.3f
 		use_animation = no
 		cull_distance = 550.0f
@@ -1468,7 +1468,7 @@ objectTypes = {
 
 	EMFXActorType = {
 		name = "ugricgfx_city_1"
-		actorfile = "gfx\models\Settlements\Northern\Northern_City03.xac"
+		actorfile = "gfx/models/Settlements/Northern/Northern_City03.xac"
 		scale = 1.3f
 		use_animation = no
 		cull_distance = 550.0f
@@ -1479,119 +1479,119 @@ objectTypes = {
 
 	EMFXActorType = {
 		name = "italiangfx_house_1_1"
-		actorfile = "gfx\models\Settlements\Mediterranean\Mediterranean_house_1_01.xac"
+		actorfile = "gfx/models/Settlements/Mediterranean/Mediterranean_house_1_01.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 
 	EMFXActorType = {
 		name = "italiangfx_house_1_2"
-		actorfile = "gfx\models\Settlements\Mediterranean\Mediterranean_house_1_02.xac"
+		actorfile = "gfx/models/Settlements/Mediterranean/Mediterranean_house_1_02.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 	
 	EMFXActorType = {
 		name = "italiangfx_house_1_3"
-		actorfile = "gfx\models\Settlements\Mediterranean\Mediterranean_house_1_03.xac"
+		actorfile = "gfx/models/Settlements/Mediterranean/Mediterranean_house_1_03.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 
 	EMFXActorType = {
 		name = "italiangfx_house_1_4"
-		actorfile = "gfx\models\Settlements\Mediterranean\Mediterranean_house_1_04.xac"
+		actorfile = "gfx/models/Settlements/Mediterranean/Mediterranean_house_1_04.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 
 	EMFXActorType = {
 		name = "italiangfx_house_2_1"
-		actorfile = "gfx\models\Settlements\Mediterranean\Mediterranean_house_2_01.xac"
+		actorfile = "gfx/models/Settlements/Mediterranean/Mediterranean_house_2_01.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 
 	EMFXActorType = {
 		name = "italiangfx_house_2_2"
-		actorfile = "gfx\models\Settlements\Mediterranean\Mediterranean_house_2_02.xac"
+		actorfile = "gfx/models/Settlements/Mediterranean/Mediterranean_house_2_02.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 	
 	EMFXActorType = {
 		name = "italiangfx_house_2_3"
-		actorfile = "gfx\models\Settlements\Mediterranean\Mediterranean_house_2_03.xac"
+		actorfile = "gfx/models/Settlements/Mediterranean/Mediterranean_house_2_03.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 	
 	EMFXActorType = {
 		name = "italiangfx_house_2_4"
-		actorfile = "gfx\models\Settlements\Mediterranean\Mediterranean_house_2_04.xac"
+		actorfile = "gfx/models/Settlements/Mediterranean/Mediterranean_house_2_04.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 
 	EMFXActorType = {
 		name = "italiangfx_house_3_1"
-		actorfile = "gfx\models\Settlements\Mediterranean\Mediterranean_house_3_01.xac"
+		actorfile = "gfx/models/Settlements/Mediterranean/Mediterranean_house_3_01.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 
 	EMFXActorType = {
 		name = "italiangfx_house_3_2"
-		actorfile = "gfx\models\Settlements\Mediterranean\Mediterranean_house_3_02.xac"
+		actorfile = "gfx/models/Settlements/Mediterranean/Mediterranean_house_3_02.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 	
 	EMFXActorType = {
 		name = "italiangfx_house_3_3"
-		actorfile = "gfx\models\Settlements\Mediterranean\Mediterranean_house_3_03.xac"
+		actorfile = "gfx/models/Settlements/Mediterranean/Mediterranean_house_3_03.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 	
 	EMFXActorType = {
 		name = "italiangfx_house_3_4"
-		actorfile = "gfx\models\Settlements\Mediterranean\Mediterranean_house_3_04.xac"
+		actorfile = "gfx/models/Settlements/Mediterranean/Mediterranean_house_3_04.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 
 	EMFXActorType = {
 		name = "italiangfx_house_4_1"
-		actorfile = "gfx\models\Settlements\Mediterranean\Mediterranean_house_4_01.xac"
+		actorfile = "gfx/models/Settlements/Mediterranean/Mediterranean_house_4_01.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 
 	EMFXActorType = {
 		name = "italiangfx_house_4_2"
-		actorfile = "gfx\models\Settlements\Mediterranean\Mediterranean_house_4_02.xac"
+		actorfile = "gfx/models/Settlements/Mediterranean/Mediterranean_house_4_02.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 
 	EMFXActorType = {
 		name = "italiangfx_house_4_3"
-		actorfile = "gfx\models\Settlements\Mediterranean\Mediterranean_house_4_03.xac"
+		actorfile = "gfx/models/Settlements/Mediterranean/Mediterranean_house_4_03.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 	
 	EMFXActorType = {
 		name = "italiangfx_house_4_4"
-		actorfile = "gfx\models\Settlements\Mediterranean\Mediterranean_house_4_04.xac"
+		actorfile = "gfx/models/Settlements/Mediterranean/Mediterranean_house_4_04.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 	
 	EMFXActorType = {
 		name = "italiangfx_castle_1"
-		actorfile = "gfx\models\Settlements\Mediterranean\Mediterranean_Castle_01.xac"
+		actorfile = "gfx/models/Settlements/Mediterranean/Mediterranean_Castle_01.xac"
 		scale = 1.3f
 		use_animation = no
 		cull_distance = 550.0f
@@ -1599,7 +1599,7 @@ objectTypes = {
 	
 	EMFXActorType = {
 		name = "italiangfx_temple_1"
-		actorfile = "gfx\models\Settlements\Mediterranean\Mediterranean_Church_02.xac"
+		actorfile = "gfx/models/Settlements/Mediterranean/Mediterranean_Church_02.xac"
 		scale = 1.3f
 		use_animation = no
 		cull_distance = 550.0f
@@ -1607,7 +1607,7 @@ objectTypes = {
 	
 	EMFXActorType = {
 		name = "italiangfx_city_1"
-		actorfile = "gfx\models\Settlements\Mediterranean\Mediterranean_City01.xac"
+		actorfile = "gfx/models/Settlements/Mediterranean/Mediterranean_City01.xac"
 		scale = 1.3f
 		use_animation = no
 		cull_distance = 550.0f
@@ -1617,119 +1617,119 @@ objectTypes = {
 
 	EMFXActorType = {
 		name = "iberiangfx_house_1_1"
-		actorfile = "gfx\models\Settlements\Mediterranean\Mediterranean_house_1_01.xac"
+		actorfile = "gfx/models/Settlements/Mediterranean/Mediterranean_house_1_01.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 
 	EMFXActorType = {
 		name = "iberiangfx_house_1_2"
-		actorfile = "gfx\models\Settlements\Mediterranean\Mediterranean_house_1_02.xac"
+		actorfile = "gfx/models/Settlements/Mediterranean/Mediterranean_house_1_02.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 	
 	EMFXActorType = {
 		name = "iberiangfx_house_1_3"
-		actorfile = "gfx\models\Settlements\Mediterranean\Mediterranean_house_1_03.xac"
+		actorfile = "gfx/models/Settlements/Mediterranean/Mediterranean_house_1_03.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 
 	EMFXActorType = {
 		name = "iberiangfx_house_1_4"
-		actorfile = "gfx\models\Settlements\Mediterranean\Mediterranean_house_1_04.xac"
+		actorfile = "gfx/models/Settlements/Mediterranean/Mediterranean_house_1_04.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 
 	EMFXActorType = {
 		name = "iberiangfx_house_2_1"
-		actorfile = "gfx\models\Settlements\Mediterranean\Mediterranean_house_2_01.xac"
+		actorfile = "gfx/models/Settlements/Mediterranean/Mediterranean_house_2_01.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 
 	EMFXActorType = {
 		name = "iberiangfx_house_2_2"
-		actorfile = "gfx\models\Settlements\Mediterranean\Mediterranean_house_2_02.xac"
+		actorfile = "gfx/models/Settlements/Mediterranean/Mediterranean_house_2_02.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 	
 	EMFXActorType = {
 		name = "iberiangfx_house_2_3"
-		actorfile = "gfx\models\Settlements\Mediterranean\Mediterranean_house_2_03.xac"
+		actorfile = "gfx/models/Settlements/Mediterranean/Mediterranean_house_2_03.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 	
 	EMFXActorType = {
 		name = "iberiangfx_house_2_4"
-		actorfile = "gfx\models\Settlements\Mediterranean\Mediterranean_house_2_04.xac"
+		actorfile = "gfx/models/Settlements/Mediterranean/Mediterranean_house_2_04.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 
 	EMFXActorType = {
 		name = "iberiangfx_house_3_1"
-		actorfile = "gfx\models\Settlements\Mediterranean\Mediterranean_house_3_01.xac"
+		actorfile = "gfx/models/Settlements/Mediterranean/Mediterranean_house_3_01.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 
 	EMFXActorType = {
 		name = "iberiangfx_house_3_2"
-		actorfile = "gfx\models\Settlements\Mediterranean\Mediterranean_house_3_02.xac"
+		actorfile = "gfx/models/Settlements/Mediterranean/Mediterranean_house_3_02.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 	
 	EMFXActorType = {
 		name = "iberiangfx_house_3_3"
-		actorfile = "gfx\models\Settlements\Mediterranean\Mediterranean_house_3_03.xac"
+		actorfile = "gfx/models/Settlements/Mediterranean/Mediterranean_house_3_03.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 	
 	EMFXActorType = {
 		name = "iberiangfx_house_3_4"
-		actorfile = "gfx\models\Settlements\Mediterranean\Mediterranean_house_3_04.xac"
+		actorfile = "gfx/models/Settlements/Mediterranean/Mediterranean_house_3_04.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 
 	EMFXActorType = {
 		name = "iberiangfx_house_4_1"
-		actorfile = "gfx\models\Settlements\Mediterranean\Mediterranean_house_4_01.xac"
+		actorfile = "gfx/models/Settlements/Mediterranean/Mediterranean_house_4_01.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 
 	EMFXActorType = {
 		name = "iberiangfx_house_4_2"
-		actorfile = "gfx\models\Settlements\Mediterranean\Mediterranean_house_4_02.xac"
+		actorfile = "gfx/models/Settlements/Mediterranean/Mediterranean_house_4_02.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 
 	EMFXActorType = {
 		name = "iberiangfx_house_4_3"
-		actorfile = "gfx\models\Settlements\Mediterranean\Mediterranean_house_4_03.xac"
+		actorfile = "gfx/models/Settlements/Mediterranean/Mediterranean_house_4_03.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 	
 	EMFXActorType = {
 		name = "iberiangfx_house_4_4"
-		actorfile = "gfx\models\Settlements\Mediterranean\Mediterranean_house_4_04.xac"
+		actorfile = "gfx/models/Settlements/Mediterranean/Mediterranean_house_4_04.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 	
 	EMFXActorType = {
 		name = "iberiangfx_castle_1"
-		actorfile = "gfx\models\Settlements\Mediterranean\Mediterranean_Castle_01.xac"
+		actorfile = "gfx/models/Settlements/Mediterranean/Mediterranean_Castle_01.xac"
 		scale = 1.3f
 		use_animation = no
 		cull_distance = 550.0f
@@ -1737,7 +1737,7 @@ objectTypes = {
 	
 	EMFXActorType = {
 		name = "iberiangfx_temple_1"
-		actorfile = "gfx\models\Settlements\Mediterranean\Mediterranean_Church_02.xac"
+		actorfile = "gfx/models/Settlements/Mediterranean/Mediterranean_Church_02.xac"
 		scale = 1.3f
 		use_animation = no
 		cull_distance = 550.0f
@@ -1745,7 +1745,7 @@ objectTypes = {
 	
 	EMFXActorType = {
 		name = "iberiangfx_city_1"
-		actorfile = "gfx\models\Settlements\Mediterranean\Mediterranean_City01.xac"
+		actorfile = "gfx/models/Settlements/Mediterranean/Mediterranean_City01.xac"
 		scale = 1.3f
 		use_animation = no
 		cull_distance = 550.0f
@@ -1755,119 +1755,119 @@ objectTypes = {
 
 	EMFXActorType = {
 		name = "croatiangfx_house_1_1"
-		actorfile = "gfx\models\Settlements\Mediterranean\Mediterranean_house_1_01.xac"
+		actorfile = "gfx/models/Settlements/Mediterranean/Mediterranean_house_1_01.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 
 	EMFXActorType = {
 		name = "croatiangfx_house_1_2"
-		actorfile = "gfx\models\Settlements\Mediterranean\Mediterranean_house_1_02.xac"
+		actorfile = "gfx/models/Settlements/Mediterranean/Mediterranean_house_1_02.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 	
 	EMFXActorType = {
 		name = "croatiangfx_house_1_3"
-		actorfile = "gfx\models\Settlements\Mediterranean\Mediterranean_house_1_03.xac"
+		actorfile = "gfx/models/Settlements/Mediterranean/Mediterranean_house_1_03.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 
 	EMFXActorType = {
 		name = "croatiangfx_house_1_4"
-		actorfile = "gfx\models\Settlements\Mediterranean\Mediterranean_house_1_04.xac"
+		actorfile = "gfx/models/Settlements/Mediterranean/Mediterranean_house_1_04.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 
 	EMFXActorType = {
 		name = "croatiangfx_house_2_1"
-		actorfile = "gfx\models\Settlements\Mediterranean\Mediterranean_house_2_01.xac"
+		actorfile = "gfx/models/Settlements/Mediterranean/Mediterranean_house_2_01.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 
 	EMFXActorType = {
 		name = "croatiangfx_house_2_2"
-		actorfile = "gfx\models\Settlements\Mediterranean\Mediterranean_house_2_02.xac"
+		actorfile = "gfx/models/Settlements/Mediterranean/Mediterranean_house_2_02.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 	
 	EMFXActorType = {
 		name = "croatiangfx_house_2_3"
-		actorfile = "gfx\models\Settlements\Mediterranean\Mediterranean_house_2_03.xac"
+		actorfile = "gfx/models/Settlements/Mediterranean/Mediterranean_house_2_03.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 	
 	EMFXActorType = {
 		name = "croatiangfx_house_2_4"
-		actorfile = "gfx\models\Settlements\Mediterranean\Mediterranean_house_2_04.xac"
+		actorfile = "gfx/models/Settlements/Mediterranean/Mediterranean_house_2_04.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 
 	EMFXActorType = {
 		name = "croatiangfx_house_3_1"
-		actorfile = "gfx\models\Settlements\Mediterranean\Mediterranean_house_3_01.xac"
+		actorfile = "gfx/models/Settlements/Mediterranean/Mediterranean_house_3_01.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 
 	EMFXActorType = {
 		name = "croatiangfx_house_3_2"
-		actorfile = "gfx\models\Settlements\Mediterranean\Mediterranean_house_3_02.xac"
+		actorfile = "gfx/models/Settlements/Mediterranean/Mediterranean_house_3_02.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 	
 	EMFXActorType = {
 		name = "croatiangfx_house_3_3"
-		actorfile = "gfx\models\Settlements\Mediterranean\Mediterranean_house_3_03.xac"
+		actorfile = "gfx/models/Settlements/Mediterranean/Mediterranean_house_3_03.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 	
 	EMFXActorType = {
 		name = "croatiangfx_house_3_4"
-		actorfile = "gfx\models\Settlements\Mediterranean\Mediterranean_house_3_04.xac"
+		actorfile = "gfx/models/Settlements/Mediterranean/Mediterranean_house_3_04.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 
 	EMFXActorType = {
 		name = "croatiangfx_house_4_1"
-		actorfile = "gfx\models\Settlements\Mediterranean\Mediterranean_house_4_01.xac"
+		actorfile = "gfx/models/Settlements/Mediterranean/Mediterranean_house_4_01.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 
 	EMFXActorType = {
 		name = "croatiangfx_house_4_2"
-		actorfile = "gfx\models\Settlements\Mediterranean\Mediterranean_house_4_02.xac"
+		actorfile = "gfx/models/Settlements/Mediterranean/Mediterranean_house_4_02.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 
 	EMFXActorType = {
 		name = "croatiangfx_house_4_3"
-		actorfile = "gfx\models\Settlements\Mediterranean\Mediterranean_house_4_03.xac"
+		actorfile = "gfx/models/Settlements/Mediterranean/Mediterranean_house_4_03.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 	
 	EMFXActorType = {
 		name = "croatiangfx_house_4_4"
-		actorfile = "gfx\models\Settlements\Mediterranean\Mediterranean_house_4_04.xac"
+		actorfile = "gfx/models/Settlements/Mediterranean/Mediterranean_house_4_04.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 	
 	EMFXActorType = {
 		name = "croatiangfx_castle_1"
-		actorfile = "gfx\models\Settlements\Mediterranean\Mediterranean_Castle_01.xac"
+		actorfile = "gfx/models/Settlements/Mediterranean/Mediterranean_Castle_01.xac"
 		scale = 1.3f
 		use_animation = no
 		cull_distance = 550.0f
@@ -1875,7 +1875,7 @@ objectTypes = {
 	
 	EMFXActorType = {
 		name = "croatiangfx_temple_1"
-		actorfile = "gfx\models\Settlements\Mediterranean\Mediterranean_Church_02.xac"
+		actorfile = "gfx/models/Settlements/Mediterranean/Mediterranean_Church_02.xac"
 		scale = 1.3f
 		use_animation = no
 		cull_distance = 550.0f
@@ -1883,7 +1883,7 @@ objectTypes = {
 	
 	EMFXActorType = {
 		name = "croatiangfx_city_1"
-		actorfile = "gfx\models\Settlements\Mediterranean\Mediterranean_City01.xac"
+		actorfile = "gfx/models/Settlements/Mediterranean/Mediterranean_City01.xac"
 		scale = 1.3f
 		use_animation = no
 		cull_distance = 550.0f
@@ -1892,119 +1892,119 @@ objectTypes = {
 	#### HEL-Byzantine settlement ########################################################
 	EMFXActorType = {
 		name = "byzantinegfx_house_1_1"
-		actorfile = "gfx\models\Settlements\Hellene\Hellene_house_1_01.xac"
+		actorfile = "gfx/models/Settlements/Hellene/Hellene_house_1_01.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 
 	EMFXActorType = {
 		name = "byzantinegfx_house_1_2"
-		actorfile = "gfx\models\Settlements\Hellene\Hellene_house_1_02.xac"
+		actorfile = "gfx/models/Settlements/Hellene/Hellene_house_1_02.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 	
 	EMFXActorType = {
 		name = "byzantinegfx_house_1_3"
-		actorfile = "gfx\models\Settlements\Hellene\Hellene_house_1_03.xac"
+		actorfile = "gfx/models/Settlements/Hellene/Hellene_house_1_03.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 
 	EMFXActorType = {
 		name = "byzantinegfx_house_1_4"
-		actorfile = "gfx\models\Settlements\Hellene\Hellene_house_1_04.xac"
+		actorfile = "gfx/models/Settlements/Hellene/Hellene_house_1_04.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 
 	EMFXActorType = {
 		name = "byzantinegfx_house_2_1"
-		actorfile = "gfx\models\Settlements\Hellene\Hellene_house_2_01.xac"
+		actorfile = "gfx/models/Settlements/Hellene/Hellene_house_2_01.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 
 	EMFXActorType = {
 		name = "byzantinegfx_house_2_2"
-		actorfile = "gfx\models\Settlements\Hellene\Hellene_house_2_02.xac"
+		actorfile = "gfx/models/Settlements/Hellene/Hellene_house_2_02.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 	
 	EMFXActorType = {
 		name = "byzantinegfx_house_2_3"
-		actorfile = "gfx\models\Settlements\Hellene\Hellene_house_2_03.xac"
+		actorfile = "gfx/models/Settlements/Hellene/Hellene_house_2_03.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 	
 	EMFXActorType = {
 		name = "byzantinegfx_house_2_4"
-		actorfile = "gfx\models\Settlements\Hellene\Hellene_house_2_04.xac"
+		actorfile = "gfx/models/Settlements/Hellene/Hellene_house_2_04.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 
 	EMFXActorType = {
 		name = "byzantinegfx_house_3_1"
-		actorfile = "gfx\models\Settlements\Hellene\Hellene_house_3_01.xac"
+		actorfile = "gfx/models/Settlements/Hellene/Hellene_house_3_01.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 
 	EMFXActorType = {
 		name = "byzantinegfx_house_3_2"
-		actorfile = "gfx\models\Settlements\Hellene\Hellene_house_3_02.xac"
+		actorfile = "gfx/models/Settlements/Hellene/Hellene_house_3_02.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 	
 	EMFXActorType = {
 		name = "byzantinegfx_house_3_3"
-		actorfile = "gfx\models\Settlements\Hellene\Hellene_house_3_03.xac"
+		actorfile = "gfx/models/Settlements/Hellene/Hellene_house_3_03.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 	
 	EMFXActorType = {
 		name = "byzantinegfx_house_3_4"
-		actorfile = "gfx\models\Settlements\Hellene\Hellene_house_3_04.xac"
+		actorfile = "gfx/models/Settlements/Hellene/Hellene_house_3_04.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 
 	EMFXActorType = {
 		name = "byzantinegfx_house_4_1"
-		actorfile = "gfx\models\Settlements\hellene\hellene_house_4_01.xac"
+		actorfile = "gfx/models/Settlements/hellene/Hellene_house_4_01.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 
 	EMFXActorType = {
 		name = "byzantinegfx_house_4_2"
-		actorfile = "gfx\models\Settlements\hellene\hellene_house_4_02.xac"
+		actorfile = "gfx/models/Settlements/hellene/Hellene_house_4_02.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 
 	EMFXActorType = {
 		name = "byzantinegfx_house_4_3"
-		actorfile = "gfx\models\Settlements\hellene\hellene_house_4_03.xac"
+		actorfile = "gfx/models/Settlements/hellene/Hellene_house_4_03.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 	
 	EMFXActorType = {
 		name = "byzantinegfx_house_4_4"
-		actorfile = "gfx\models\Settlements\hellene\hellene_house_4_04.xac"
+		actorfile = "gfx/models/Settlements/hellene/Hellene_house_4_04.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 	
 	EMFXActorType = {
 		name = "byzantinegfx_castle_1"
-		actorfile = "gfx\models\Settlements\hellene\Hellene_Castle_01.xac"
+		actorfile = "gfx/models/Settlements/hellene/Hellene_Castle_01.xac"
 		scale = 1.3f
 		use_animation = no
 		cull_distance = 550.0f
@@ -2012,7 +2012,7 @@ objectTypes = {
 	
 	EMFXActorType = {
 		name = "byzantinegfx_temple_1"
-		actorfile = "gfx\models\Settlements\hellene\Hellas_Church_01.xac"
+		actorfile = "gfx/models/Settlements/hellene/Hellas_Church_01.xac"
 		scale = 1.3f
 		use_animation = no
 		cull_distance = 550.0f
@@ -2020,7 +2020,7 @@ objectTypes = {
 	
 	EMFXActorType = {
 		name = "byzantinegfx_city_1"
-		actorfile = "gfx\models\Settlements\hellene\hellene_City01.xac"
+		actorfile = "gfx/models/Settlements/hellene/hellene_City01.xac"
 		scale = 1.3f
 		use_animation = no
 		cull_distance = 550.0f
@@ -2030,119 +2030,119 @@ objectTypes = {
 	
 	EMFXActorType = {
 		name = "andalusiangfx_house_1_1"
-		actorfile = "gfx\models\Settlements\Moorish\mooris_house_1_01.xac"
+		actorfile = "gfx/models/Settlements/Moorish/Mooris_house_1_01.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 
 	EMFXActorType = {
 		name = "andalusiangfx_house_1_2"
-		actorfile = "gfx\models\Settlements\Moorish\mooris_house_1_02.xac"
+		actorfile = "gfx/models/Settlements/Moorish/Mooris_house_1_02.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 	
 	EMFXActorType = {
 		name = "andalusiangfx_house_1_3"
-		actorfile = "gfx\models\Settlements\Moorish\mooris_house_1_03.xac"
+		actorfile = "gfx/models/Settlements/Moorish/Mooris_house_1_03.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 
 	EMFXActorType = {
 		name = "andalusiangfx_house_1_4"
-		actorfile = "gfx\models\Settlements\Moorish\mooris_house_1_04.xac"
+		actorfile = "gfx/models/Settlements/Moorish/Mooris_house_1_04.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 
 	EMFXActorType = {
 		name = "andalusiangfx_house_2_1"
-		actorfile = "gfx\models\Settlements\Moorish\mooris_house_2_01.xac"
+		actorfile = "gfx/models/Settlements/Moorish/Mooris_house_2_01.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 
 	EMFXActorType = {
 		name = "andalusiangfx_house_2_2"
-		actorfile = "gfx\models\Settlements\Moorish\mooris_house_2_02.xac"
+		actorfile = "gfx/models/Settlements/Moorish/Mooris_house_2_02.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 	
 	EMFXActorType = {
 		name = "andalusiangfx_house_2_3"
-		actorfile = "gfx\models\Settlements\Moorish\mooris_house_2_03.xac"
+		actorfile = "gfx/models/Settlements/Moorish/Mooris_house_2_03.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 	
 	EMFXActorType = {
 		name = "andalusiangfx_house_2_4"
-		actorfile = "gfx\models\Settlements\Moorish\mooris_house_2_04.xac"
+		actorfile = "gfx/models/Settlements/Moorish/Mooris_house_2_04.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 
 	EMFXActorType = {
 		name = "andalusiangfx_house_3_1"
-		actorfile = "gfx\models\Settlements\Moorish\mooris_house_3_01.xac"
+		actorfile = "gfx/models/Settlements/Moorish/Mooris_house_3_01.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 
 	EMFXActorType = {
 		name = "andalusiangfx_house_3_2"
-		actorfile = "gfx\models\Settlements\Moorish\mooris_house_3_02.xac"
+		actorfile = "gfx/models/Settlements/Moorish/Mooris_house_3_02.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 	
 	EMFXActorType = {
 		name = "andalusiangfx_house_3_3"
-		actorfile = "gfx\models\Settlements\Moorish\mooris_house_3_03.xac"
+		actorfile = "gfx/models/Settlements/Moorish/Mooris_house_3_03.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 	
 	EMFXActorType = {
 		name = "andalusiangfx_house_3_4"
-		actorfile = "gfx\models\Settlements\Moorish\mooris_house_3_04.xac"
+		actorfile = "gfx/models/Settlements/Moorish/Mooris_house_3_04.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 
 	EMFXActorType = {
 		name = "andalusiangfx_house_4_1"
-		actorfile = "gfx\models\Settlements\Moorish\mooris_house_4_01.xac"
+		actorfile = "gfx/models/Settlements/Moorish/Mooris_house_4_01.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 
 	EMFXActorType = {
 		name = "andalusiangfx_house_4_2"
-		actorfile = "gfx\models\Settlements\Moorish\mooris_house_4_02.xac"
+		actorfile = "gfx/models/Settlements/Moorish/Mooris_house_4_02.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 
 	EMFXActorType = {
 		name = "andalusiangfx_house_4_3"
-		actorfile = "gfx\models\Settlements\Moorish\mooris_house_4_03.xac"
+		actorfile = "gfx/models/Settlements/Moorish/Mooris_house_4_03.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 	
 	EMFXActorType = {
 		name = "andalusiangfx_house_4_4"
-		actorfile = "gfx\models\Settlements\Moorish\mooris_house_4_04.xac"
+		actorfile = "gfx/models/Settlements/Moorish/Mooris_house_4_04.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 	
 	EMFXActorType = {
 		name = "andalusiangfx_castle_1"
-		actorfile = "gfx\models\Settlements\Moorish\Mooris_Castle_03.xac"
+		actorfile = "gfx/models/Settlements/Moorish/Mooris_Castle_03.xac"
 		scale = 1.3f
 		use_animation = no
 		cull_distance = 550.0f
@@ -2150,7 +2150,7 @@ objectTypes = {
 	
 	EMFXActorType = {
 		name = "andalusiangfx_temple_1"
-		actorfile = "gfx\models\Settlements\Moorish\Mooris_Church01.xac"
+		actorfile = "gfx/models/Settlements/Moorish/Mooris_Church01.xac"
 		scale = 1.3f
 		use_animation = no
 		cull_distance = 550.0f
@@ -2158,7 +2158,7 @@ objectTypes = {
 	
 	EMFXActorType = {
 		name = "andalusiangfx_city_1"
-		actorfile = "gfx\models\Settlements\Moorish\Mooris_City_02.xac"
+		actorfile = "gfx/models/Settlements/Moorish/Mooris_City_02.xac"
 		scale = 1.3f
 		use_animation = no
 		cull_distance = 550.0f
@@ -2168,119 +2168,119 @@ objectTypes = {
 	
 	EMFXActorType = {
 		name = "berbergfx_house_1_1"
-		actorfile = "gfx\models\Settlements\Moorish\mooris_house_1_01.xac"
+		actorfile = "gfx/models/Settlements/Moorish/Mooris_house_1_01.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 
 	EMFXActorType = {
 		name = "berbergfx_house_1_2"
-		actorfile = "gfx\models\Settlements\Moorish\mooris_house_1_02.xac"
+		actorfile = "gfx/models/Settlements/Moorish/Mooris_house_1_02.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 	
 	EMFXActorType = {
 		name = "berbergfx_house_1_3"
-		actorfile = "gfx\models\Settlements\Moorish\mooris_house_1_03.xac"
+		actorfile = "gfx/models/Settlements/Moorish/Mooris_house_1_03.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 
 	EMFXActorType = {
 		name = "berbergfx_house_1_4"
-		actorfile = "gfx\models\Settlements\Moorish\mooris_house_1_04.xac"
+		actorfile = "gfx/models/Settlements/Moorish/Mooris_house_1_04.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 
 	EMFXActorType = {
 		name = "berbergfx_house_2_1"
-		actorfile = "gfx\models\Settlements\Moorish\mooris_house_2_01.xac"
+		actorfile = "gfx/models/Settlements/Moorish/Mooris_house_2_01.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 
 	EMFXActorType = {
 		name = "berbergfx_house_2_2"
-		actorfile = "gfx\models\Settlements\Moorish\mooris_house_2_02.xac"
+		actorfile = "gfx/models/Settlements/Moorish/Mooris_house_2_02.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 	
 	EMFXActorType = {
 		name = "berbergfx_house_2_3"
-		actorfile = "gfx\models\Settlements\Moorish\mooris_house_2_03.xac"
+		actorfile = "gfx/models/Settlements/Moorish/Mooris_house_2_03.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 	
 	EMFXActorType = {
 		name = "berbergfx_house_2_4"
-		actorfile = "gfx\models\Settlements\Moorish\mooris_house_2_04.xac"
+		actorfile = "gfx/models/Settlements/Moorish/Mooris_house_2_04.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 
 	EMFXActorType = {
 		name = "berbergfx_house_3_1"
-		actorfile = "gfx\models\Settlements\Moorish\mooris_house_3_01.xac"
+		actorfile = "gfx/models/Settlements/Moorish/Mooris_house_3_01.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 
 	EMFXActorType = {
 		name = "berbergfx_house_3_2"
-		actorfile = "gfx\models\Settlements\Moorish\mooris_house_3_02.xac"
+		actorfile = "gfx/models/Settlements/Moorish/Mooris_house_3_02.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 	
 	EMFXActorType = {
 		name = "berbergfx_house_3_3"
-		actorfile = "gfx\models\Settlements\Moorish\mooris_house_3_03.xac"
+		actorfile = "gfx/models/Settlements/Moorish/Mooris_house_3_03.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 	
 	EMFXActorType = {
 		name = "berbergfx_house_3_4"
-		actorfile = "gfx\models\Settlements\Moorish\mooris_house_3_04.xac"
+		actorfile = "gfx/models/Settlements/Moorish/Mooris_house_3_04.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 
 	EMFXActorType = {
 		name = "berbergfx_house_4_1"
-		actorfile = "gfx\models\Settlements\Moorish\mooris_house_4_01.xac"
+		actorfile = "gfx/models/Settlements/Moorish/Mooris_house_4_01.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 
 	EMFXActorType = {
 		name = "berbergfx_house_4_2"
-		actorfile = "gfx\models\Settlements\Moorish\mooris_house_4_02.xac"
+		actorfile = "gfx/models/Settlements/Moorish/Mooris_house_4_02.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 
 	EMFXActorType = {
 		name = "berbergfx_house_4_3"
-		actorfile = "gfx\models\Settlements\Moorish\mooris_house_4_03.xac"
+		actorfile = "gfx/models/Settlements/Moorish/Mooris_house_4_03.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 	
 	EMFXActorType = {
 		name = "berbergfx_house_4_4"
-		actorfile = "gfx\models\Settlements\Moorish\mooris_house_4_04.xac"
+		actorfile = "gfx/models/Settlements/Moorish/Mooris_house_4_04.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 	
 	EMFXActorType = {
 		name = "berbergfx_castle_1"
-		actorfile = "gfx\models\Settlements\Moorish\Mooris_Castle_03.xac"
+		actorfile = "gfx/models/Settlements/Moorish/Mooris_Castle_03.xac"
 		scale = 1.3f
 		use_animation = no
 		cull_distance = 550.0f
@@ -2288,7 +2288,7 @@ objectTypes = {
 	
 	EMFXActorType = {
 		name = "berbergfx_temple_1"
-		actorfile = "gfx\models\Settlements\Moorish\Mooris_Church01.xac"
+		actorfile = "gfx/models/Settlements/Moorish/Mooris_Church01.xac"
 		scale = 1.3f
 		use_animation = no
 		cull_distance = 550.0f
@@ -2296,7 +2296,7 @@ objectTypes = {
 	
 	EMFXActorType = {
 		name = "berbergfx_city_1"
-		actorfile = "gfx\models\Settlements\Moorish\Mooris_City_02.xac"
+		actorfile = "gfx/models/Settlements/Moorish/Mooris_City_02.xac"
 		scale = 1.3f
 		use_animation = no
 		cull_distance = 550.0f
@@ -2306,119 +2306,119 @@ objectTypes = {
 	
 	EMFXActorType = {
 		name = "persiangfx_house_1_1"
-		actorfile = "gfx\models\Settlements\Persia\Persia_house_1_01.xac"
+		actorfile = "gfx/models/Settlements/Persia/Persia_house_1_01.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 
 	EMFXActorType = {
 		name = "persiangfx_house_1_2"
-		actorfile = "gfx\models\Settlements\Persia\Persia_house_1_02.xac"
+		actorfile = "gfx/models/Settlements/Persia/Persia_house_1_02.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 	
 	EMFXActorType = {
 		name = "persiangfx_house_1_3"
-		actorfile = "gfx\models\Settlements\Persia\Persia_house_1_03.xac"
+		actorfile = "gfx/models/Settlements/Persia/Persia_house_1_03.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 
 	EMFXActorType = {
 		name = "persiangfx_house_1_4"
-		actorfile = "gfx\models\Settlements\Persia\Persia_house_1_04.xac"
+		actorfile = "gfx/models/Settlements/Persia/Persia_house_1_04.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 
 	EMFXActorType = {
 		name = "persiangfx_house_2_1"
-		actorfile = "gfx\models\Settlements\Persia\Persia_house_2_01.xac"
+		actorfile = "gfx/models/Settlements/Persia/Persia_house_2_01.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 
 	EMFXActorType = {
 		name = "persiangfx_house_2_2"
-		actorfile = "gfx\models\Settlements\Persia\Persia_house_2_02.xac"
+		actorfile = "gfx/models/Settlements/Persia/Persia_house_2_02.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 	
 	EMFXActorType = {
 		name = "persiangfx_house_2_3"
-		actorfile = "gfx\models\Settlements\Persia\Persia_house_2_03.xac"
+		actorfile = "gfx/models/Settlements/Persia/Persia_house_2_03.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 	
 	EMFXActorType = {
 		name = "persiangfx_house_2_4"
-		actorfile = "gfx\models\Settlements\Persia\Persia_house_2_04.xac"
+		actorfile = "gfx/models/Settlements/Persia/Persia_house_2_04.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 
 	EMFXActorType = {
 		name = "persiangfx_house_3_1"
-		actorfile = "gfx\models\Settlements\Persia\Persia_house_3_01.xac"
+		actorfile = "gfx/models/Settlements/Persia/Persia_house_3_01.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 
 	EMFXActorType = {
 		name = "persiangfx_house_3_2"
-		actorfile = "gfx\models\Settlements\Persia\Persia_house_3_02.xac"
+		actorfile = "gfx/models/Settlements/Persia/Persia_house_3_02.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 	
 	EMFXActorType = {
 		name = "persiangfx_house_3_3"
-		actorfile = "gfx\models\Settlements\Persia\Persia_house_3_03.xac"
+		actorfile = "gfx/models/Settlements/Persia/Persia_house_3_03.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 	
 	EMFXActorType = {
 		name = "persiangfx_house_3_4"
-		actorfile = "gfx\models\Settlements\Persia\Persia_house_3_04.xac"
+		actorfile = "gfx/models/Settlements/Persia/Persia_house_3_04.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 
 	EMFXActorType = {
 		name = "persiangfx_house_4_1"
-		actorfile = "gfx\models\Settlements\Persia\Persia_house_4_01.xac"
+		actorfile = "gfx/models/Settlements/Persia/Persia_house_4_01.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 
 	EMFXActorType = {
 		name = "persiangfx_house_4_2"
-		actorfile = "gfx\models\Settlements\Persia\Persia_house_4_02.xac"
+		actorfile = "gfx/models/Settlements/Persia/Persia_house_4_02.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 
 	EMFXActorType = {
 		name = "persiangfx_house_4_3"
-		actorfile = "gfx\models\Settlements\Persia\Persia_house_4_03.xac"
+		actorfile = "gfx/models/Settlements/Persia/Persia_house_4_03.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 	
 	EMFXActorType = {
 		name = "persiangfx_house_4_4"
-		actorfile = "gfx\models\Settlements\Persia\Persia_house_4_04.xac"
+		actorfile = "gfx/models/Settlements/Persia/Persia_house_4_04.xac"
 		scale = 0.8f
 		use_animation = no
 	}
 	
 	EMFXActorType = {
 		name = "persiangfx_castle_1"
-		actorfile = "gfx\models\Settlements\Persia\Persia_Castle_01.xac"
+		actorfile = "gfx/models/Settlements/Persia/Persia_Castle_01.xac"
 		scale = 1.3f
 		use_animation = no
 		cull_distance = 550.0f
@@ -2426,7 +2426,7 @@ objectTypes = {
 	
 	EMFXActorType = {
 		name = "persiangfx_temple_1"
-		actorfile = "gfx\models\Settlements\Persia\Persia_Church02.xac"
+		actorfile = "gfx/models/Settlements/Persia/Persia_Church02.xac"
 		scale = 1.3f
 		use_animation = no
 		cull_distance = 550.0f
@@ -2434,7 +2434,7 @@ objectTypes = {
 	
 	EMFXActorType = {
 		name = "persiangfx_city_1"
-		actorfile = "gfx\models\Settlements\Persia\Persia_City_03.xac"
+		actorfile = "gfx/models/Settlements/Persia/Persia_City_03.xac"
 		scale = 1.3f
 		use_animation = no
 		cull_distance = 550.0f

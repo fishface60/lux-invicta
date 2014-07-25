@@ -5,14 +5,14 @@ spriteTypes = {
 
 	spriteType = {
 		name = "PORTRAIT_ugricgfx_child_male"
-		texturefile = "gfx\\characters\\default_son_easternslavic.tga"
+		texturefile = "gfx/characters/default_son_easternslavic.tga"
 		noOfFrames = 1
 		norefcount = yes
 	}
 	
 	spriteType = {
 		name = "PORTRAIT_ugricgfx_child_female"
-		texturefile = "gfx\\characters\\default_daughter_easternslavic.tga"
+		texturefile = "gfx/characters/default_daughter_easternslavic.tga"
 		noOfFrames = 1
 		norefcount = yes
 	}
@@ -392,7 +392,7 @@ spriteTypes = {
 	
 		spriteType = {
 		name = "PORTRAIT_balticgfx_child_male"
-		texturefile = "gfx\\characters\\default_son.tga"
+		texturefile = "gfx/characters/default_son.tga"
 		noOfFrames = 1
 		norefcount = yes
 		can_be_lowres = yes
@@ -400,7 +400,7 @@ spriteTypes = {
 	
 	spriteType = {
 		name = "PORTRAIT_balticgfx_child_female"
-		texturefile = "gfx\\characters\\default_daughter.tga"
+		texturefile = "gfx/characters/default_daughter.tga"
 		noOfFrames = 1
 		norefcount = yes
 		can_be_lowres = yes

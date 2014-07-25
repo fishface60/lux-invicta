@@ -84,7 +84,7 @@
 			Right = String
 			FileExists = {
 				Target = "[R]"
-				Path = "gfx\portraits\*.tga"
+				Path = "gfx/portraits/*.tga"
 			}
 		}
 	} }

@@ -2,7 +2,7 @@ spriteTypes = {
 
 	spriteType = {
 		name = "GFX_baltic_male_headgear"
-		texturefile = "gfx\\characters\\baltic_male\\baltic_male_headgear.dds"
+		texturefile = "gfx/characters/baltic_male/baltic_male_headgear.dds"
 		noOfFrames = 15
 		norefcount = yes
 		can_be_lowres = yes
@@ -10,14 +10,14 @@ spriteTypes = {
 	
 	spriteType = {
 		name = "GFX_baltic_male_headgear_behind"
-		texturefile = "gfx\\characters\\baltic_male\\baltic_male_headgear_behind.dds"
+		texturefile = "gfx/characters/baltic_male/baltic_male_headgear_behind.dds"
 		noOfFrames = 15
 		norefcount = yes
 	}
 
 	spriteType = {
 		name = "GFX_oldbyzantine_male_clothes"
-		texturefile = "gfx\\characters\\oldbyzantine_male\\oldbyzantine_male_clothes.dds"
+		texturefile = "gfx/characters/oldbyzantine_male/oldbyzantine_male_clothes.dds"
 		noOfFrames = 15
 		norefcount = yes
 		can_be_lowres = yes
@@ -25,7 +25,7 @@ spriteTypes = {
 
 	spriteType = {
 		name = "GFX_oldbyzantine_male_clothes_infront"
-		texturefile = "gfx\\characters\\oldbyzantine_male\\oldbyzantine_male_clothes_infront.dds"
+		texturefile = "gfx/characters/oldbyzantine_male/oldbyzantine_male_clothes_infront.dds"
 		noOfFrames = 15
 		norefcount = yes
 		can_be_lowres = yes
@@ -33,7 +33,7 @@ spriteTypes = {
 
 	spriteType = {
 		name = "GFX_oldbyzantine_male_headgear_behind"
-		texturefile = "gfx\\characters\\oldbyzantine_male\\oldbyzantine_male_headgear_behind.dds"
+		texturefile = "gfx/characters/oldbyzantine_male/oldbyzantine_male_headgear_behind.dds"
 		noOfFrames = 15
 		norefcount = yes
 		can_be_lowres = yes
@@ -41,7 +41,7 @@ spriteTypes = {
 
 	spriteType = {
 		name = "GFX_oldbyzantine_male_headgear"
-		texturefile = "gfx\\characters\\oldbyzantine_male\\oldbyzantine_male_headgear.dds"
+		texturefile = "gfx/characters/oldbyzantine_male/oldbyzantine_male_headgear.dds"
 		noOfFrames = 15
 		norefcount = yes
 		can_be_lowres = yes
@@ -49,7 +49,7 @@ spriteTypes = {
 	
 	spriteType = {
 		name = "GFX_oldbyzantine_male_headgear_mid"
-		texturefile = "gfx\\characters\\oldbyzantine_male\\oldbyzantine_male_headgear_mid.dds"
+		texturefile = "gfx/characters/oldbyzantine_male/oldbyzantine_male_headgear_mid.dds"
 		noOfFrames = 15
 		norefcount = yes
 		can_be_lowres = yes
@@ -57,7 +57,7 @@ spriteTypes = {
 
 	spriteType = {
 		name = "GFX_oldeasternslavic_male_clothes_infront"
-		texturefile = "gfx\\characters\\oldeasternslavic_male\\oldeasternslavic_male_clothes_infront.dds"
+		texturefile = "gfx/characters/oldeasternslavic_male/oldeasternslavic_male_clothes_infront.dds"
 		noOfFrames = 15
 		norefcount = yes
 		can_be_lowres = yes
@@ -65,7 +65,7 @@ spriteTypes = {
 
 	spriteType = {
 		name = "GFX_oldeasternslavic_male_clothes"
-		texturefile = "gfx\\characters\\oldeasternslavic_male\\oldeasternslavic_male_clothes.dds"
+		texturefile = "gfx/characters/oldeasternslavic_male/oldeasternslavic_male_clothes.dds"
 		noOfFrames = 15
 		norefcount = yes
 		can_be_lowres = yes
@@ -73,7 +73,7 @@ spriteTypes = {
 
 	spriteType = {
 		name = "GFX_oldeasternslavic_male_clothes_behind"
-		texturefile = "gfx\\characters\\oldeasternslavic_male\\oldeasternslavic_male_clothes_behind.dds"
+		texturefile = "gfx/characters/oldeasternslavic_male/oldeasternslavic_male_clothes_behind.dds"
 		noOfFrames = 15
 		norefcount = yes
 		can_be_lowres = yes
@@ -81,7 +81,7 @@ spriteTypes = {
 	
 	spriteType = {
 		name = "GFX_oldeasternslavic_male_headgear"
-		texturefile = "gfx\\characters\\oldeasternslavic_male\\oldeasternslavic_male_headgear.dds"
+		texturefile = "gfx/characters/oldeasternslavic_male/oldeasternslavic_male_headgear.dds"
 		noOfFrames = 15
 		norefcount = yes
 		can_be_lowres = yes

@@ -22,8 +22,8 @@
 		Supply = {
 			(DataSource Chained) = {
 				Or = {
-					(FileGroup "gfx\pictures\decisions" "*.dds")
-					(FileGroup "gfx\pictures\decisions" "*.tga")
+					(FileGroup "gfx/pictures/decisions" "*.dds")
+					(FileGroup "gfx/pictures/decisions" "*.tga")
 				}
 				(StringOp ToUpper)
 				(StringOp Replace "\\" "\")

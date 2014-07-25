@@ -93,7 +93,7 @@ Global = {
 	
 	FileExists = {
 		Target = "[L]"
-		Path = "gfx\flags\*.tga"
+		Path = "gfx/flags/*.tga"
 	}
 
 	(If IfNot = NoTitleAdjCheckKey) = {
